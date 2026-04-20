@@ -3,11 +3,14 @@ import FacultyList from './components/FacultyList'
 import FacultyDetail from './components/FacultyDetail'
 import FilterComponent from './components/FilterComponent'
 import ExportComponent from './components/ExportComponent'
+import StatsDashboard from './components/StatsDashboard'
+import FacultyComparison from './components/FacultyComparison'
 import './App.css'
 
 function App() {
   const [facultyData, setFacultyData] = useState([])
   const [selectedFaculty, setSelectedFaculty] = useState(null)
+  const [showComparison, setShowComparison] = useState(false)
   const [searchTerm, setSearchTerm] = useState('')
   const [filters, setFilters] = useState({
     title: '',
@@ -27,10 +30,12 @@ function App() {
 
   const handleFacultySelect = (faculty) => {
     setSelectedFaculty(faculty)
+    setShowComparison(false)
   }
 
   const handleBackToList = () => {
     setSelectedFaculty(null)
+    setShowComparison(false)
   }
 
   const handleFilterChange = (newFilters) => {
@@ -40,7 +45,7 @@ function App() {
   const filteredFaculty = facultyData.filter(faculty => {
     // 搜索条件
     const matchesSearch = faculty.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      faculty.researchDirection.toLowerCase().includes(searchTerm.toLowerCase())
+      (faculty.researchDirection && faculty.researchDirection.toLowerCase().includes(searchTerm.toLowerCase()))
     
     // 筛选条件
     const matchesTitle = !filters.title || faculty.title === filters.title
@@ -56,10 +61,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>北京师范大学人工智能学院导师信息可视化系统</h1>
+        <h1>🎓 北京师范大学人工智能学院</h1>
+        <p>导师信息可视化系统</p>
       </header>
       <main>
-        {selectedFaculty ? (
+        {showComparison ? (
+          <FacultyComparison 
+            facultyData={facultyData}
+            onBack={handleBackToList}
+          />
+        ) : selectedFaculty ? (
           <>
             <ExportComponent 
               facultyData={facultyData} 
@@ -72,6 +83,19 @@ function App() {
           </>
         ) : (
           <>
+            <StatsDashboard facultyData={facultyData} />
+            
+            <div className="export-container">
+              <div className="export-buttons">
+                <button 
+                  className="export-button primary" 
+                  onClick={() => setShowComparison(true)}
+                >
+                  🆚 导师对比
+                </button>
+              </div>
+            </div>
+
             <ExportComponent 
               facultyData={facultyData} 
               selectedFaculty={selectedFaculty} 
@@ -90,7 +114,7 @@ function App() {
         )}
       </main>
       <footer>
-        <p>© 2026 北师大AI学院导师信息可视化系统</p>
+        <p>© 2026 北京师范大学人工智能学院 · 导师信息可视化系统</p>
       </footer>
     </div>
   )
