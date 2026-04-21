@@ -24,15 +24,9 @@ const PaperVisualization = ({ papers }) => {
     const fieldMap = new Map()
     papers.forEach(paper => {
       if (paper.researchField) {
-        try {
-          const fields = JSON.parse(paper.researchField)
-          fields.forEach(field => {
-            if (field) {
-              fieldMap.set(field, (fieldMap.get(field) || 0) + 1)
-            }
-          })
-        } catch (e) {
-          // 忽略解析错误
+        const field = paper.researchField.trim()
+        if (field) {
+          fieldMap.set(field, (fieldMap.get(field) || 0) + 1)
         }
       }
     })
