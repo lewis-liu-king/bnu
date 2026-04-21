@@ -1,4 +1,4 @@
-﻿导师,发表渠道,渠道类型,论文数,总引用
+﻿教师,期刊/会议,类型,论文数,总引用
 丁春涛,IEEE Transactions on Mobile Computing,journal,7,112
 丁春涛,arXiv (Cornell University),repository,5,3
 丁春涛,IEEE Transactions on Services Computing,journal,4,6
@@ -52,182 +52,163 @@
 于恒,ERSA,journal,1,0
 于恒,Asia and South Pacific Design Automation Conference,conference,1,22
 于恒,International Journal of Angiology,journal,1,0
-付艳,Applied Physics Letters,journal,6,52
-付艳,arXiv (Cornell University),repository,6,3
-付艳,Advanced Functional Materials,journal,5,91
-付艳,Physical review. B./Physical review. B,journal,5,69
-付艳,The Journal of Physical Chemistry Letters,journal,5,38
-付艳,Chemical Physics Letters,journal,3,8
-付艳,Physical Review Applied,journal,3,88
-付艳,iScience,journal,3,17
-付艳,Advanced Theory and Simulations,journal,3,13
-付艳,Organic Letters,journal,2,18
-付艳,Inorganic Chemistry,journal,2,14
-付艳,Nano Research,journal,2,28
-付艳,Chemical Engineering Journal,journal,2,73
-付艳,Research Square,repository,2,0
-付艳,SSRN Electronic Journal,repository,2,1
-付艳,Chinese Physics Letters,journal,2,24
-付艳,ACM Transactions on Design Automation of Electronic Systems,journal,1,0
-付艳,Oikos,journal,1,0
-付艳,Biomimetics,journal,1,0
-付艳,Journal of Experimental Botany,journal,1,0
-付艳,Frontiers in Cell and Developmental Biology,journal,1,0
-付艳,Chinese Physics B,journal,1,0
-付艳,CSEE Journal of Power and Energy Systems,journal,1,0
-付艳,IEEE photonics journal,journal,1,0
-付艳,Solid State Communications,journal,1,0
-付艳,The Journal of Physical Chemistry C,journal,1,0
-付艳,Science Advances,journal,1,6
-付艳,Physics of Fluids,journal,1,2
-付艳,Journal of Materials Chemistry A,journal,1,5
-付艳,Proceedings - International Symposium for Testing and Failure Analysis,journal,1,0
-付艳,Journal of Physics Conference Series,journal,1,0
-付艳,Scientific Reports,journal,1,3
-付艳,Journal of Material Science and Technology,journal,1,35
-付艳,Chaos Solitons & Fractals,journal,1,13
-付艳,Small,journal,1,30
-付艳,ACS Applied Electronic Materials,journal,1,6
-付艳,ACS Energy Letters,journal,1,126
-付艳,Australian Journal of Chemistry,journal,1,3
-付艳,Polymer Degradation and Stability,journal,1,15
-付艳,Journal of Colloid and Interface Science,journal,1,24
-付艳,Advanced Materials,journal,1,98
-付艳,Advanced Science,journal,1,8
-付艳,Ceramics International,journal,1,5
-付艳,Frontiers in Physics,journal,1,1
-付艳,Chinese Chemical Letters,journal,1,4
-付艳,Journal of Cluster Science,journal,1,12
-付艳,Materials Chemistry and Physics,journal,1,25
-付艳,Journal of Molecular Liquids,journal,1,3
-付艳,Energy,journal,1,57
-付艳,High Power Laser Science and Engineering,journal,1,7
-付艳,Carbon,journal,1,109
-付艳,ACS Omega,journal,1,26
-付艳,Journal of Nanoelectronics and Optoelectronics,journal,1,13
-付艳,Chemical Communications,journal,1,12
-付艳,AGU Fall Meeting Abstracts,journal,1,0
-付艳,Applied Surface Science,journal,1,30
-付艳,ACS Sustainable Chemistry & Engineering,journal,1,93
-何珺,Research Square,repository,6,0
-何珺,Advanced Functional Materials,journal,4,0
-何珺,Scientific Reports,journal,2,0
-何珺,Advanced Science,journal,2,0
-何珺,Body Image,journal,2,0
-何珺,Advanced Materials,journal,2,1
-何珺,Frontiers in Immunology,journal,2,0
-何珺,The Journal of Physical Chemistry Letters,journal,2,0
-何珺,Small,journal,2,0
-何珺,Chemical Engineering Journal,journal,2,0
-何珺,Journal of Educational and Behavioral Statistics,journal,1,0
-何珺,ACS ES&T Engineering,journal,1,0
-何珺,Pest Management Science,journal,1,0
-何珺,Tribology Letters,journal,1,0
-何珺,Cell Proliferation,journal,1,0
-何珺,Journal of Plant Growth Regulation,journal,1,0
-何珺,Collagen and Leather,,1,0
-何珺,Journal of Orthopaedic Translation,journal,1,0
-何珺,Journal of Electronic Imaging,journal,1,0
-何珺,Newton,journal,1,0
-何珺,The Plant Journal,journal,1,0
-何珺,Plant and Soil,journal,1,0
-何珺,Journal of Alloys and Compounds,journal,1,0
-何珺,Acta Biochimica et Biophysica Sinica,journal,1,0
-何珺,NeuroImage,journal,1,0
-何珺,Medical Image Analysis,journal,1,0
-何珺,Journal of the European Ceramic Society,journal,1,0
-何珺,High Voltage,journal,1,0
-何珺,Ecology and Evolution,journal,1,0
-何珺,Buildings,journal,1,0
-何珺,Transactions in Urban Data Science and Technology,journal,1,0
-何珺,Nature Energy,journal,1,0
-何珺,Biomimetics,journal,1,0
-何珺,Journal of Oral Microbiology,journal,1,0
-何珺,Learning and Motivation,journal,1,0
-何珺,Automatica,journal,1,0
-何珺,Advances in Research,journal,1,0
-何珺,Journal of Materials in Civil Engineering,journal,1,0
-何珺,Arthritis Research & Therapy,journal,1,0
-何珺,Cognitive Computation,journal,1,0
-何珺,International Biodeterioration & Biodegradation,journal,1,0
-何珺,ONCOLOGIE,journal,1,0
-何珺,Obesity Surgery,journal,1,0
-何珺,Optics Communications,journal,1,0
-何珺,Macromolecules,journal,1,0
-何珺,Processes,journal,1,0
-何珺,Infection and Drug Resistance,journal,1,0
-何珺,HLA,journal,1,0
-何珺,Gastroenterology,journal,1,0
-何珺,Engineering Structures,journal,1,0
-何珺,Circulation,journal,1,0
-何珺,Open MIND,repository,1,0
-何珺,Analytical Chemistry,journal,1,0
-何珺,Journal of Integrative Plant Biology,journal,1,0
-何珺,Gut,journal,1,0
-何珺,Applied Biochemistry and Biotechnology,journal,1,0
-何珺,Journal of Nanobiotechnology,journal,1,0
-何珺,Pharmacological Research,journal,1,0
-何珺,European Archives of Psychiatry and Clinical Neuroscience,journal,1,0
-何珺,Science China Technological Sciences,journal,1,0
-何珺,Journal of Applied Polymer Science,journal,1,0
-何珺,Sensors,journal,1,0
-何珺,Journal of Inflammation Research,journal,1,0
-何珺,Advanced Optical Materials,journal,1,0
-何珺,Journal of Cleaner Production,journal,1,0
-何珺,New Phytologist,journal,1,1
-何珺,Dyes and Pigments,journal,1,0
-何珺,Biochemical and Biophysical Research Communications,journal,1,0
-何珺,Scientific and Social Research,journal,1,0
-何珺,Rare Metals,journal,1,1
-何珺,Colloids and Surfaces B Biointerfaces,journal,1,0
-何珺,Separation and Purification Technology,journal,1,0
-何珺,Nano-Micro Letters,journal,1,0
-何珺,Reliability Engineering & System Safety,journal,1,2
-何珺,International Journal of Extreme Manufacturing,journal,1,0
-何珺,Environmental Science & Technology,journal,1,1
-何珺,Chinese Physics Letters,journal,1,0
-何珺,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,1,0
-何珺,IEEE Photonics Technology Letters,journal,1,0
-何珺,Communications in Mathematical Sciences,journal,1,0
-何珺,IEEE Transactions on Dielectrics and Electrical Insulation,journal,1,0
-何珺,RSC Advances,journal,1,0
-余乐军,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,5,18
-余乐军,International Journal of Biological Macromolecules,journal,3,180
-余乐军,The Visual Computer,journal,2,5
-余乐军,Neural Computing and Applications,journal,2,64
-余乐军,Journal of Electronic Imaging,journal,2,5
-余乐军,IEEE Conference Proceedings,conference,2,0
-余乐军,Acta Hydrobiologica Sinica,journal,2,0
-余乐军,IEEE Transactions on Consumer Electronics,journal,2,29
-余乐军,Colloids and Surfaces B Biointerfaces,journal,1,2
-余乐军,The Journal of Supercomputing,journal,1,0
-余乐军,Neurocomputing,journal,1,8
-余乐军,Journal of Physics Conference Series,journal,1,0
-余乐军,Materials Today Bio,journal,1,13
-余乐军,AIP Advances,journal,1,3
-余乐军,Applied Intelligence,journal,1,13
-余乐军,Food Control,journal,1,17
-余乐军,SSRN Electronic Journal,repository,1,0
-余乐军,2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI),conference,1,2
-余乐军,Journal on Multimodal User Interfaces,journal,1,14
-余乐军,IET Image Processing,journal,1,4
-余乐军,IEEE Transactions on Affective Computing,journal,1,114
-余乐军,Applied Physics A,journal,1,16
-余乐军,Journal of Visual Communication and Image Representation,journal,1,13
-余乐军,KSII Transactions on Internet and Information Systems,journal,1,9
-余乐军,Acta Physica Sinica,journal,1,1
-余乐军,Neural Networks,journal,1,46
-余乐军,Signal Processing Image Communication,journal,1,37
-余乐军,PLoS ONE,journal,1,186
-余乐军,Journal of Biomaterials Applications,journal,1,16
-余乐军,Communications in computer and information science,book series,1,9
-余乐军,Frontiers of Materials Science in China,journal,1,18
-余乐军,Journal of Wuhan University of Technology-Mater Sci Ed,journal,1,10
-余乐军,Polymer Engineering and Science,journal,1,30
-余乐军,Journal of Ocean University of China,journal,1,54
-余乐军,Chinese Bulletin of Botany,journal,1,4
-余乐军,Journal of Wuhan University,journal,1,0
-余乐军,Europe PMC (PubMed Central),repository,1,0
+付艳,Springer series in geomechanics and geoengineering,book series,3,1
+付艳,Translational Psychiatry,journal,2,12
+付艳,International Journal of Computational Science and Engineering,journal,2,0
+付艳,Transactions of Nonferrous Metals Society of China,journal,2,58
+付艳,SSRN Electronic Journal,repository,1,0
+付艳,Nature Human Behaviour,journal,1,4
+付艳,Journal of Ethnopharmacology,journal,1,6
+付艳,Scientific Reports,journal,1,4
+付艳,IET Image Processing,journal,1,8
+付艳,Journal of Central South University,journal,1,4
+付艳,Theoretical and Applied Fracture Mechanics,journal,1,9
+付艳,Metals,journal,1,14
+付艳,ACS Omega,journal,1,25
+付艳,Lecture notes on data engineering and communications technologies,book series,1,0
+付艳,E3S Web of Conferences,journal,1,0
+付艳,Virtual Reality,journal,1,1
+付艳,bioRxiv (Cold Spring Harbor Laboratory),repository,1,1
+付艳,Minerals Engineering,journal,1,40
+付艳,China Journal of Chinese Materia Medica,journal,1,0
+付艳,The International Journal of Aging and Human Development,journal,1,8
+付艳,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,0
+付艳,Hydrometallurgy,journal,1,26
+付艳,Lecture notes in computer science,book series,1,8
+付艳,Computers & Mathematics with Applications,journal,1,64
+付艳,Cement and Concrete Research,journal,1,4
+何珺,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,23,32
+何珺,arXiv (Cornell University),repository,22,77
+何珺,Lecture notes in computer science,book series,9,31
+何珺,Journal of Electronic Imaging,journal,5,84
+何珺,SSRN Electronic Journal,repository,4,4
+何珺,Thermal Science,journal,4,16
+何珺,Communications in computer and information science,book series,3,9
+何珺,Structural Safety,journal,3,135
+何珺,Journal of Shanghai Jiaotong University (Science),journal,3,16
+何珺,Lecture notes in electrical engineering,book series,3,3
+何珺,Scientific Reports,journal,2,1
+何珺,Neurocomputing,journal,2,8
+何珺,Research Square,repository,2,0
+何珺,Earthquake Spectra,journal,2,13
+何珺,The Visual Computer,journal,2,5
+何珺,Neural Computing and Applications,journal,2,64
+何珺,Neural Networks,journal,2,81
+何珺,"2022 IEEE 10th International Conference on Information, Communication and Networks (ICICN)",conference,2,1
+何珺,Journal on Multimodal User Interfaces,journal,2,58
+何珺,Sustainable innovations in education and technology,conference,2,1
+何珺,Acta Physica Sinica,journal,2,3
+何珺,International Journal of Numerical Methods for Heat &amp Fluid Flow,journal,2,8
+何珺,Natural Hazards,journal,2,43
+何珺,Earthquake Engineering and Engineering Vibration,journal,2,11
+何珺,Modern Electronics Technique,journal,2,0
+何珺,Research and Exploration in Laboratory,journal,2,0
+何珺,Journal of Zhejiang Education Institute,journal,2,0
+何珺,APS March Meeting Abstracts,journal,2,1
+何珺,Journal of Education and Educational Research,journal,1,0
+何珺,European journal of medical research,journal,1,1
+何珺,Aerospace,journal,1,0
+何珺,BMC Microbiology,journal,1,0
+何珺,Frontiers in Earth Science,journal,1,0
+何珺,Journal of Structural Engineering,journal,1,0
+何珺,Ageing Research Reviews,journal,1,3
+何珺,Behavioral Sciences,journal,1,4
+何珺,Applied Sciences,journal,1,1
+何珺,Computers & Geosciences,journal,1,2
+何珺,Frontiers in Neurology,journal,1,4
+何珺,The Journal of Supercomputing,journal,1,0
+何珺,ArXiv.org,repository,1,0
+何珺,Optics Express,journal,1,1
+何珺,Journal of Cancer,journal,1,0
+何珺,Sustainability,journal,1,2
+何珺,Journal of Forensic Science and Medicine,journal,1,0
+何珺,International Journal of Academic Research in Business and Social Sciences,journal,1,2
+何珺,Journal of Physics D Applied Physics,journal,1,3
+何珺,Frontiers in Business Economics and Management,journal,1,6
+何珺,Energies,journal,1,3
+何珺,IEEE Transactions on Human-Machine Systems,journal,1,1
+何珺,International Journal of Education and Humanities,journal,1,0
+何珺,"Advances in economics, business and management research/Advances in Economics, Business and Management Research",book series,1,0
+何珺,Electronics,journal,1,6
+何珺,Frontiers in Immunology,journal,1,11
+何珺,HERD Health Environments Research & Design Journal,journal,1,12
+何珺,Journal of Physics Conference Series,journal,1,0
+何珺,Frontiers in Public Health,journal,1,4
+何珺,BMC Plant Biology,journal,1,0
+何珺,AIP Advances,journal,1,3
+何珺,International Journal of Pattern Recognition and Artificial Intelligence,journal,1,2
+何珺,ACM Computing Surveys,journal,1,106
+何珺,Applied Intelligence,journal,1,13
+何珺,Information Sciences,journal,1,12
+何珺,"Advances in Social Science, Education and Humanities Research/Advances in social science, education and humanities research",journal,1,2
+何珺,Wireless Communications and Mobile Computing,journal,1,2
+何珺,2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI),conference,1,2
+何珺,Reliability Engineering & System Safety,journal,1,12
+何珺,Transactions on computational science and computational intelligence,book series,1,0
+何珺,Education and Awareness of Sustainability,journal,1,1
+何珺,Journal of Statistical Mechanics Theory and Experiment,journal,1,18
+何珺,IET Image Processing,journal,1,4
+何珺,IEEE Transactions on Affective Computing,journal,1,114
+何珺,Journal of Construction Engineering and Management,journal,1,17
+何珺,Applied Physics A,journal,1,16
+何珺,Physica A Statistical Mechanics and its Applications,journal,1,20
+何珺,KSII Transactions on Internet and Information Systems,journal,1,9
+何珺,Applied Optics,journal,1,3
+何珺,"2019 9th International Conference on Education, Management, and Computer",conference,1,1
+何珺,ISPRS International Journal of Geo-Information,journal,1,25
+何珺,Computer Methods and Programs in Biomedicine,journal,1,10
+何珺,Advances in Structural Engineering,journal,1,17
+何珺,Journal of the Association for Information Systems,journal,1,0
+何珺,"The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",journal,1,21
+何珺,Signal Processing Image Communication,journal,1,37
+何珺,International Journal of Control and Automation,journal,1,3
+何珺,Journal of Electronic Science and Technology,journal,1,8
+何珺,Springer series in reliability engineering,book series,1,0
+何珺,Journal of Applied Remote Sensing,journal,1,0
+何珺,Beijing Hangkong Hangtian Daxue xuebao,journal,1,2
+何珺,Xiaoxing Weixing Jisuanji Xitong,journal,1,0
+何珺,Strategic Study of CAE,journal,1,0
+何珺,Advanced Engineering Informatics,journal,1,13
+何珺,Journal of Engineering Mechanics,journal,1,25
+何珺,International Journal of Security and Its Applications,journal,1,2
+何珺,"ICIC express letters. Part B, Applications",journal,1,0
+何珺,International Journal of Signal Processing Image Processing and Pattern Recognition,journal,1,1
+何珺,Applied Mechanics and Materials,journal,1,2
+何珺,Journal of Multimedia,journal,1,2
+何珺,Chinese Science Bulletin,journal,1,23
+何珺,International Symposium on Computational Intelligence and Design,conference,1,0
+何珺,Journal of Software Engineering and Applications,journal,1,1
+何珺,Computer Knowledge and Technology,journal,1,0
+何珺,Zenodo (CERN European Organization for Nuclear Research),repository,1,0
+何珺,DSpace@MIT (Massachusetts Institute of Technology),repository,1,0
+何珺,Analytical Chemistry,journal,1,39
+何珺,ACTA AUTOMATICA SINICA,journal,1,10
+何珺,Journal of Hunan University,journal,1,0
+何珺,Electronics Letters,journal,1,5
+何珺,International Journal of Speech Technology,journal,1,10
+何珺,South-to-north Water Transfers and Water Science & Technology,journal,1,0
+何珺,Journal of Chongqing University of Science and Technology,journal,1,0
+何珺,Science and Technology Information,journal,1,0
+何珺,Jisuanji gongcheng,journal,1,3
+何珺,Applied Mathematics and Mechanics,journal,1,8
+何珺,Journal of Nanchang Institute of Technology,journal,1,0
+何珺,Clinical Medicine,journal,1,0
+何珺,Jisuanji gongcheng yu sheji,journal,1,1
+何珺,Probabilistic Engineering Mechanics,journal,1,17
+何珺,Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering,journal,1,7
+何珺,Journal of Hebei University of Engineering,journal,1,0
+何珺,Ship Science and Technology,journal,1,0
+何珺,Computer and Modernization,journal,1,0
+何珺,Computers & Structures,journal,1,21
+何珺,Journal of Materials Science,journal,1,7
+何珺,Journal of PLA University of Science and Technology,journal,1,1
+何珺,Shuju fenxi yu zhishi faxian,journal,1,0
+何珺,Radar & Ecm,journal,1,0
+何珺,Yunchou yu guanli,journal,1,0
+何珺,Journal of Military Communications Technology,journal,1,0
+何珺,Earthquake Engineering & Structural Dynamics,journal,1,95
+何珺,Jisuanji yu yingyong huaxue,journal,1,0
+何珺,Journal of Huaihua Teachers College,journal,1,0
 余先川,IEEE Geoscience and Remote Sensing Letters,journal,5,462
 余先川,Computers & Geosciences,journal,3,52
 余先川,Science China Earth Sciences,journal,3,50
@@ -270,58 +251,29 @@
 侯赛辉,Journal of Image and Graphics,journal,2,0
 侯赛辉,International Journal of Computer Vision,journal,1,4
 侯赛辉,IEEE Transactions on Neural Networks and Learning Systems,journal,1,46
-党德鹏,arXiv (Cornell University),repository,11,24
-党德鹏,ArXiv.org,repository,4,0
-党德鹏,Pattern Recognition,journal,3,36
-党德鹏,IEEE Access,journal,3,5
-党德鹏,Information Sciences,journal,3,45
-党德鹏,IEEE Transactions on Knowledge and Data Engineering,journal,2,6
-党德鹏,Scientific Data,journal,2,33
-党德鹏,IEEE Transactions on Circuits and Systems for Video Technology,journal,2,39
-党德鹏,Knowledge and Information Systems,journal,2,34
-党德鹏,IEEE Geoscience and Remote Sensing Letters,journal,2,6
-党德鹏,Data Technologies and Applications,journal,2,2
-党德鹏,Intelligent Data Analysis,journal,2,5
-党德鹏,Future Generation Computer Systems,journal,2,22
-党德鹏,Jisuanji gongcheng yu sheji,journal,2,1
-党德鹏,Journal of Shanghai University (English Edition),journal,2,3
-党德鹏,Neural Networks,journal,1,1
-党德鹏,Neurocomputing,journal,1,0
-党德鹏,Applied Sciences,journal,1,1
-党德鹏,The Visual Computer,journal,1,10
-党德鹏,SSRN Electronic Journal,repository,1,0
-党德鹏,Computer Speech & Language,journal,1,4
-党德鹏,International Journal of Aeronautical and Space Sciences,journal,1,7
-党德鹏,Scientific Reports,journal,1,15
-党德鹏,npj Computational Materials,journal,1,75
-党德鹏,Neural Processing Letters,journal,1,58
-党德鹏,The Journal of Supercomputing,journal,1,23
-党德鹏,Enterprise Information Systems,journal,1,3
-党德鹏,Journal of information science and engineering,journal,1,0
-党德鹏,Journal of Earthquake Engineering,journal,1,3
-党德鹏,IEEE Transactions on Parallel and Distributed Systems,journal,1,26
-党德鹏,Physica A Statistical Mechanics and its Applications,journal,1,7
-党德鹏,Chinese Journal of Computers,journal,1,0
-党德鹏,Jisuanji gongcheng,journal,1,0
-党德鹏,North China Earthquake Sciences,journal,1,0
-党德鹏,Computer Engineering and Applications Journal,journal,1,0
-党德鹏,Journal of Computer Research and Development,journal,1,0
-党德鹏,Journal of Tsinghua University(Science and Technology),journal,1,0
-党德鹏,Journal of Systems and Software,journal,1,3
+党德鹏,Pattern Recognition,journal,2,1
+别荣芳,Lecture notes in computer science,book series,37,406
 别荣芳,Procedia Computer Science,journal,16,156
-别荣芳,Lecture notes in computer science,book series,10,15
-别荣芳,IEEE Access,journal,5,155
-别荣芳,Optik,journal,5,67
-别荣芳,Personal and Ubiquitous Computing,journal,4,41
-别荣芳,Multimedia Tools and Applications,journal,3,130
+别荣芳,Personal and Ubiquitous Computing,journal,16,302
+别荣芳,IEEE Access,journal,6,1041
+别荣芳,Optik,journal,6,67
+别荣芳,International Journal of Distributed Sensor Networks,journal,5,379
+别荣芳,IEEE Transactions on Vehicular Technology,journal,5,159
+别荣芳,Multimedia Tools and Applications,journal,4,139
+别荣芳,Neurocomputing,journal,4,239
 别荣芳,Sensors,journal,3,31
+别荣芳,Journal of Visual Communication and Image Representation,journal,3,45
 别荣芳,IEEE Transactions on Information Forensics and Security,journal,2,31
 别荣芳,Software Practice and Experience,journal,2,11
-别荣芳,Neurocomputing,journal,2,58
+别荣芳,IEEE Transactions on Cognitive Communications and Networking,journal,2,16
 别荣芳,Scientific Reports,journal,2,71
 别荣芳,Machine Vision and Applications,journal,2,31
+别荣芳,EURASIP Journal on Wireless Communications and Networking,journal,2,51
 别荣芳,IIKI,journal,2,1
 别荣芳,International Journal of Sensor Networks,journal,2,17
+别荣芳,IEEE Network,journal,2,54
+别荣芳,Journal of Network and Computer Applications,journal,2,88
+别荣芳,Communications in Mobile Computing,journal,2,100
 别荣芳,Information,journal,1,0
 别荣芳,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,1,1
 别荣芳,Chinese Journal of Electronics,journal,1,1
@@ -333,77 +285,123 @@
 别荣芳,Mathematics,journal,1,13
 别荣芳,Research Square,repository,1,0
 别荣芳,High-Confidence Computing,journal,1,2
-别荣芳,IEEE Transactions on Cognitive Communications and Networking,journal,1,4
 别荣芳,Applied Sciences,journal,1,15
 别荣芳,IEEE Transactions on Knowledge and Data Engineering,journal,1,48
 别荣芳,Computer Networks,journal,1,134
-别荣芳,International Journal of Distributed Sensor Networks,journal,1,27
 别荣芳,International Journal of Software Innovation,journal,1,4
 别荣芳,Journal of Database Management,journal,1,16
-别荣芳,Journal of Visual Communication and Image Representation,journal,1,13
-别荣芳,EURASIP Journal on Wireless Communications and Networking,journal,1,11
 别荣芳,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",journal,1,1
-别荣芳,IEEE Transactions on Vehicular Technology,journal,1,7
 别荣芳,IEEE Transactions on Big Data,journal,1,111
 别荣芳,International Conference on Information Society,conference,1,1
-吴昊,Optik,journal,6,23
-吴昊,Procedia Computer Science,journal,5,97
-吴昊,International Journal of Hydrogen Energy,journal,3,16
-吴昊,Electronics,journal,3,21
+别荣芳,Journal of Intelligent & Fuzzy Systems,journal,1,16
+别荣芳,Security and Communication Networks,journal,1,17
+别荣芳,Journal of Medical Systems,journal,1,4
+别荣芳,International Journal of Data Warehousing and Mining,journal,1,14
+别荣芳,EURASIP Journal on Advances in Signal Processing,journal,1,0
+别荣芳,Mobile Networks and Applications,journal,1,1
+别荣芳,ACM SIGMOBILE Mobile Computing and Communications Review,journal,1,12
+别荣芳,Mobile Information Systems,journal,1,38
+别荣芳,Computer Science and Information Systems,journal,1,6
+别荣芳,Journal of Software,journal,1,2
+别荣芳,SHILAP Revista de lepidopterología,journal,1,49
+别荣芳,JMIR mhealth and uhealth,journal,1,8
+别荣芳,網際網路技術學刊,journal,1,8
+别荣芳,Automatika,journal,1,4
+别荣芳,International Journal of Digital Content Technology and its Applications,journal,1,8
+别荣芳,2010 Sixth International Conference on Natural Computation,conference,1,7
+别荣芳,New Generation Computing,journal,1,3
+别荣芳,International Journal of Computational Intelligence Systems,journal,1,18
+别荣芳,Communications in computer and information science,book series,1,1
+别荣芳,Applied Intelligence,journal,1,3
+别荣芳,IEEE International Conference on Industrial Informatics (INDIN),conference,1,4
+别荣芳,Computational Statistics,journal,1,6
+别荣芳,DMIN,journal,1,15
+别荣芳,Industrial Conference on Data Mining,conference,1,0
+别荣芳,The 2006 IEEE International Joint Conference on Neural Network Proceedings,conference,1,12
+别荣芳,Physica B Condensed Matter,journal,1,39
+吴昊,Optics Express,journal,13,502
+吴昊,Journal of Lightwave Technology,journal,5,155
+吴昊,arXiv (Cornell University),repository,5,2
+吴昊,Advanced Functional Materials,journal,3,217
+吴昊,Journal of the Optical Society of America A,journal,3,20
+吴昊,IEEE Sensors Journal,journal,3,32
+吴昊,IEEE photonics journal,journal,3,30
+吴昊,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,3,4
+吴昊,PubMed,repository,3,1
+吴昊,Laser & Photonics Review,journal,2,11
+吴昊,Light Science & Applications,journal,2,14
+吴昊,Journal of Archaeological Science Reports,journal,2,2
 吴昊,ArXiv.org,repository,2,0
-吴昊,Engineering Applications of Artificial Intelligence,journal,2,16
-吴昊,Lecture notes in electrical engineering,book series,2,0
-吴昊,Software Practice and Experience,journal,2,12
-吴昊,Lecture notes in computer science,book series,2,3
-吴昊,IEEE Access,journal,2,132
-吴昊,Machine Vision and Applications,journal,2,31
-吴昊,Journal of Visual Communication and Image Representation,journal,2,29
-吴昊,IIKI,journal,2,1
+吴昊,IEEE Internet of Things Journal,journal,2,13
+吴昊,Applied Physics Letters,journal,2,19
+吴昊,Optics Letters,journal,2,39
+吴昊,Optical Engineering,journal,2,1
+吴昊,"2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)",conference,2,2
+吴昊,IEEE Journal of Selected Topics in Quantum Electronics,journal,2,19
+吴昊,Sensors,journal,2,51
+吴昊,Applied Optics,journal,2,9
+吴昊,Conference on Lasers and Electro-Optics,conference,2,2
+吴昊,Advanced Optical Materials,journal,2,12
+吴昊,Photonics Research,journal,2,100
+吴昊,Optics Communications,journal,2,22
+吴昊,26th International Conference on Optical Fiber Sensors,conference,2,16
+吴昊,bioRxiv (Cold Spring Harbor Laboratory),repository,1,0
+吴昊,Sports Biomechanics,journal,1,0
+吴昊,Eng—Advances in Engineering,journal,1,0
+吴昊,Advanced Photonics,journal,1,1
+吴昊,npj Heritage Science,journal,1,0
+吴昊,Atmosphere,journal,1,0
+吴昊,Pattern Recognition,journal,1,3
+吴昊,Proceedings of the Design Society,journal,1,0
+吴昊,The Spine Journal,journal,1,0
+吴昊,Inventions,journal,1,2
 吴昊,Research Square,repository,1,0
-吴昊,Chinese Journal of Electronics,journal,1,1
-吴昊,npj Digital Medicine,journal,1,1
-吴昊,Journal of Real-Time Image Processing,journal,1,7
-吴昊,ISPRS Journal of Photogrammetry and Remote Sensing,journal,1,25
-吴昊,Bulletin of Engineering Geology and the Environment,journal,1,6
-吴昊,IET Computer Vision,journal,1,0
-吴昊,ACM Transactions on Multimedia Computing Communications and Applications,journal,1,9
-吴昊,IEEE Transactions on Instrumentation and Measurement,journal,1,10
-吴昊,MATEC Web of Conferences,journal,1,0
-吴昊,Journal of Organizational and End User Computing,journal,1,1
-吴昊,IEEE Transactions on Multimedia,journal,1,5
-吴昊,Knowledge-Based Systems,journal,1,8
-吴昊,Expert Systems with Applications,journal,1,40
-吴昊,Lecture notes in mechanical engineering,book series,1,0
-吴昊,ACM Transactions on Intelligent Systems and Technology,journal,1,4
-吴昊,Journal of Physics Conference Series,journal,1,0
-吴昊,Signal Processing Image Communication,journal,1,3
-吴昊,Personal and Ubiquitous Computing,journal,1,0
-吴昊,Image and Vision Computing,journal,1,12
-吴昊,IEEE Transactions on Visualization and Computer Graphics,journal,1,20
-吴昊,Neurocomputing,journal,1,38
-吴昊,International Journal of Distributed Sensor Networks,journal,1,27
-吴昊,International Journal of Software Innovation,journal,1,4
-吴昊,Multimedia Tools and Applications,journal,1,3
-吴昊,Journal of Database Management,journal,1,16
-吴昊,Iowa State University Digital Repository (Iowa State University),repository,1,0
-吴昊,Journal of Electronic Imaging,journal,1,11
-吴昊,International Conference on Information Society,conference,1,1
-吴昊,BIBSYS Brage (BIBSYS (Norway)),repository,1,0
-吴昊,Springer eBooks,ebook platform,1,0
-吴昊,Medical & Biological Engineering & Computing,journal,1,28
-吴昊,Environmental Science & Technology,journal,1,11
-吴昊,Sensors,journal,1,76
-吴昊,Applied Mechanics and Materials,journal,1,0
-吴昊,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,1
+吴昊,Genome biology,journal,1,62
+吴昊,Advanced Photonics Nexus,journal,1,5
+吴昊,APL Photonics,journal,1,13
+吴昊,International Journal of Electric Power and Energy Studies,journal,1,0
+吴昊,Biomedical Optics Express,journal,1,8
+吴昊,ACS Applied Materials & Interfaces,journal,1,30
+吴昊,SSRN Electronic Journal,repository,1,0
+吴昊,Light Advanced Manufacturing,journal,1,12
+吴昊,Journal of Research in Science and Engineering,journal,1,0
+吴昊,Journal of Material Science and Technology,journal,1,15
+吴昊,Optical Materials,journal,1,8
+吴昊,Physics of Fluids,journal,1,6
+吴昊,CES Transactions on Electrical Machines and Systems,journal,1,4
+吴昊,IEEE Transactions on Smart Grid,journal,1,41
+吴昊,IET Image Processing,journal,1,14
+吴昊,Energy Reports,journal,1,16
+吴昊,Nature Electronics,journal,1,138
+吴昊,Journal of Physics Conference Series,journal,1,1
+吴昊,Science China Information Sciences,journal,1,0
+吴昊,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1,50
+吴昊,Journal of Anthropological Archaeology,journal,1,20
+吴昊,The Imaging Science Journal,journal,1,4
+吴昊,Nano Select,journal,1,8
+吴昊,Measurement,journal,1,6
+吴昊,Applied Physics B,journal,1,1
+吴昊,Tenth International Symposium on Precision Engineering Measurements and Instrumentation,journal,1,1
+吴昊,DEStech Transactions on Engineering and Technology Research,journal,1,0
+吴昊,eScholarship (California Digital Library),repository,1,0
+吴昊,Scientific Reports,journal,1,73
+吴昊,Optical Fiber Communication Conference,conference,1,5
+吴昊,Journal of Quantitative Spectroscopy and Radiative Transfer,journal,1,43
+吴昊,Advanced materials research,journal,1,0
+吴昊,Journal of Modern Optics,journal,1,5
+吴昊,British Journal of Cancer,journal,1,34
+姜文斌,Lecture notes in computer science,book series,14,24
 姜文斌,arXiv (Cornell University),repository,13,150
-姜文斌,Lecture notes in computer science,book series,11,22
+姜文斌,Communications in computer and information science,book series,3,13
 姜文斌,ArXiv.org,repository,2,1
-姜文斌,Communications in computer and information science,book series,2,0
 姜文斌,IEEE/ACM Transactions on Audio Speech and Language Processing,journal,2,16
 姜文斌,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,11
 姜文斌,Future Generation Computer Systems,journal,2,13
+姜文斌,Journal of Computer Science and Technology,journal,2,10
 姜文斌,IEEE Conference Proceedings,conference,2,0
 姜文斌,Zhonghua Yiyuan Ganranxue Zazhi,journal,2,0
+姜文斌,Peer-to-Peer Networking and Applications,journal,2,25
+姜文斌,2007 International Conference on Convergence Information Technology (ICCIT 2007),conference,2,2
 姜文斌,Translational Pediatrics,journal,1,0
 姜文斌,European journal of medical research,journal,1,3
 姜文斌,Journal of Molecular Liquids,journal,1,1
@@ -413,7 +411,6 @@
 姜文斌,Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies,conference,1,6
 姜文斌,ACM/IMS Transactions on Data Science,journal,1,8
 姜文斌,Research Square,repository,1,0
-姜文斌,Journal of Computer Science and Technology,journal,1,8
 姜文斌,Clinical Neurology and Neurosurgery,journal,1,0
 姜文斌,Chinese Journal of Electronics,journal,1,18
 姜文斌,ACM SIGPLAN Notices,journal,1,1
@@ -433,19 +430,37 @@
 姜文斌,Computing,journal,1,11
 姜文斌,Security and Communication Networks,journal,1,2
 姜文斌,Computer Engineering and Science,journal,1,0
+姜文斌,Zhongwen xinxi xuebao,journal,1,1
+姜文斌,IEEE Transactions on Circuits and Systems for Video Technology,journal,1,36
+姜文斌,Lecture notes in electrical engineering,book series,1,7
+姜文斌,IGI Global eBooks,ebook platform,1,3
+姜文斌,Chinese Journal of Geophysics,journal,1,17
+姜文斌,Journal of Sichuan Vocational and Technical College,journal,1,0
+姜文斌,Computing and Informatics / Computers and Artificial Intelligence,journal,1,2
+姜文斌,The Journal of Supercomputing,journal,1,5
+姜文斌,Wuhan University Journal of Natural Sciences,journal,1,0
+姜文斌,Journal of Chongqing Polytechnic College,journal,1,0
+孙波,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,17,30
+孙波,Journal of Electronic Imaging,journal,7,101
+孙波,Lecture notes in computer science,book series,5,7
 孙波,SSRN Electronic Journal,repository,4,0
 孙波,eLife,journal,4,6
 孙波,Research Square,repository,4,2
-孙波,Lecture notes in computer science,book series,3,3
+孙波,ACM Transactions on Graphics,journal,4,355
+孙波,Sensors,journal,3,46
 孙波,Neural Computing and Applications,journal,3,80
-孙波,Sensors,journal,2,28
+孙波,IEEE Transactions on Learning Technologies,journal,3,86
+孙波,Sichuan Sports Science,journal,3,0
+孙波,Communications in computer and information science,book series,2,9
 孙波,The Visual Computer,journal,2,5
 孙波,Micromachines,journal,2,4
 孙波,"2022 IEEE 10th International Conference on Information, Communication and Networks (ICICN)",conference,2,1
 孙波,2021 8th International Conference on Dependable Systems and Their Applications (DSA),conference,2,2
+孙波,Journal on Multimodal User Interfaces,journal,2,58
 孙波,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",journal,2,1
+孙波,Signal Processing Image Communication,journal,2,65
+孙波,Journal of Social Science of Jiamusi University,journal,2,0
 孙波,bioRxiv (Cold Spring Harbor Laboratory),repository,1,0
-孙波,Communications in computer and information science,book series,1,0
 孙波,Journal of the Franklin Institute,journal,1,1
 孙波,Inorganic Chemistry,journal,1,4
 孙波,Applied Thermal Engineering,journal,1,0
@@ -473,16 +488,73 @@
 孙波,2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI),conference,1,2
 孙波,Journal of Information Technology Research,journal,1,1
 孙波,2021 2nd International Conference on E-Commerce and Internet Technology (ECIT),conference,1,6
-孙波,Journal on Multimodal User Interfaces,journal,1,14
 孙波,IET Image Processing,journal,1,4
 孙波,Journal of Computing and Information Technology,journal,1,0
-孙波,IEEE Transactions on Learning Technologies,journal,1,3
 孙波,IEEE Transactions on Affective Computing,journal,1,114
-孙波,Journal of Electronic Imaging,journal,1,15
 孙波,IEEE Transactions on Industrial Informatics,journal,1,229
 孙波,Applied Physics A,journal,1,16
 孙波,Journal of Visual Communication and Image Representation,journal,1,13
 孙波,KSII Transactions on Internet and Information Systems,journal,1,9
+孙波,Journal of Bioinformatics and Computational Biology,journal,1,5
+孙波,Applied Optics,journal,1,3
+孙波,International Journal of Wireless Information Networks,journal,1,7
+孙波,Neurocomputing,journal,1,33
+孙波,Computer Methods and Programs in Biomedicine,journal,1,10
+孙波,Lecture notes in electrical engineering,book series,1,0
+孙波,Wireless Communications and Mobile Computing,journal,1,2
+孙波,Procedia Computer Science,journal,1,0
+孙波,Neural Networks,journal,1,46
+孙波,AGUFM,journal,1,1
+孙波,Interactive Learning Environments,journal,1,9
+孙波,Open Scholarship Institutional Repository (Washington University in St. Louis),repository,1,0
+孙波,Journal of Sensors,journal,1,2
+孙波,IIKI,journal,1,0
+孙波,Journal of Applied Remote Sensing,journal,1,0
+孙波,Journal of Medical Systems,journal,1,18
+孙波,IEEE Journal of Oceanic Engineering,journal,1,23
+孙波,"ICIC express letters. Part B, Applications",journal,1,0
+孙波,"Advances in media, entertainment and the arts (AMEA) book series",book series,1,0
+孙波,International Journal of Signal Processing Image Processing and Pattern Recognition,journal,1,1
+孙波,China Communications,journal,1,46
+孙波,Advanced materials research,journal,1,2
+孙波,Information Engineering Letters,journal,1,1
+孙波,International Conference on Multimedia Information Networking and Security,conference,1,0
+孙波,International Symposium on Computational Intelligence and Design,conference,1,0
+孙波,Medical Entomology and Zoology,journal,1,0
+孙波,Communications and Network,journal,1,1
+孙波,Applied Mechanics and Materials,journal,1,0
+孙波,IC3T '12 Proceedings of the 2012 International Conference on Convergence Computer Technology,conference,1,0
+孙波,Science and Technology Information,journal,1,0
+孙波,Journal of Liaocheng University,journal,1,0
+孙波,Shandong Sports Science & Technology,journal,1,0
+孙波,Journal of Shandong Institute of Physical Education and Sports,journal,1,0
+孙波,International Journal of Computer Applications in Technology,journal,1,5
+孙波,Key engineering materials,book series,1,0
+孙波,Testowy IndexCopernicus,journal,1,0
+孙波,Journal of Yunnan RTV University,journal,1,0
+孙波,China Report,journal,1,0
+孙波,DR-NTU (Nanyang Technological University),repository,1,0
+孙波,Journal of Water Resources and Water Engineering,journal,1,0
+孙波,Modern Computer,journal,1,0
+孙波,Zhongguo ruankexue,journal,1,0
+孙波,Journal of Computer Applications,journal,1,0
+孙波,Shenyang Nongye Daxue xuebao,journal,1,2
+孙波,Guoji jing-mao tansuo,journal,1,0
+孙波,Computer Technology and Development,journal,1,0
+孙波,Journal of Shangqiu Teachers College,journal,1,0
+孙波,IEEE Transactions on Wireless Communications,journal,1,0
+孙波,IEEE Transactions on Visualization and Computer Graphics,journal,1,39
+孙波,Spacecraft Engineering,journal,1,2
+孙波,Journal of Zhejiang Wanli University,journal,1,0
+孙波,Journal of Northeast Dianli University,journal,1,0
+孙波,11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference,conference,1,0
+孙波,Coal science and technology,journal,1,0
+孙波,Pharmaceutical Education,journal,1,0
+孙波,Journal of North China Institute of Technology,journal,1,0
+孙波,Shanxi Science & Technology of Communications,journal,1,0
+孙波,Light Industry Machinery,journal,1,0
+孙波,Spectrum Research Repository (Concordia University),repository,1,0
+孙波,Microcomputer applications,journal,1,0
 尹乾,Lecture notes in computer science,book series,8,20
 尹乾,Remote Sensing,journal,4,42
 尹乾,Monthly Notices of the Royal Astronomical Society,journal,4,51
@@ -563,51 +635,63 @@
 崔振,Hydrology research,journal,1,69
 崔振,IEEE Transactions on Emerging Topics in Computing,journal,1,123
 崔振,Multimedia Systems,journal,1,2
-常亮,Lecture notes in computer science,book series,6,24
-常亮,arXiv (Cornell University),repository,3,68
-常亮,Science China Information Sciences,journal,3,24
-常亮,Aerospace,journal,2,43
-常亮,IEEE Transactions on Image Processing,journal,2,109
-常亮,Transactions of Tianjin University,journal,2,2
-常亮,Remote Sensing,journal,1,5
-常亮,Advances in Space Research,journal,1,1
-常亮,Ceshi jishu xuebao,journal,1,0
-常亮,Communications in computer and information science,book series,1,0
-常亮,"Computers, materials & continua/Computers, materials & continua (Print)",journal,1,2
-常亮,Engineering Applications of Artificial Intelligence,journal,1,6
-常亮,IFIP advances in information and communication technology,book series,1,0
-常亮,Frontiers of Computer Science,journal,1,7
-常亮,Wireless Networks,journal,1,9
-常亮,IET Computer Vision,journal,1,3
-常亮,Artificial Intelligence Review,journal,1,70
-常亮,Expert Systems with Applications,journal,1,20
-常亮,SSRN Electronic Journal,repository,1,0
-常亮,IET Image Processing,journal,1,7
-常亮,Journal of Physics Conference Series,journal,1,3
-常亮,Chinese Journal of Electronics,journal,1,0
-常亮,DEStech Transactions on Computer Science and Engineering,journal,1,0
-常亮,SAE technical papers on CD-ROM/SAE technical paper series,journal,1,0
-常亮,Warwick Research Archive Portal (University of Warwick),repository,1,0
-常亮,&#35745;&#31639;&#26426;&#31185;&#23398;,journal,1,0
-常亮,Applied Mechanics and Materials,journal,1,1
-常亮,Computer Vision and Image Understanding,journal,1,10
-常亮,Computer Automated Measurement & Control,journal,1,0
-张婷,arXiv (Cornell University),repository,5,8
-张婷,Research Square,repository,4,4
-张婷,SSRN Electronic Journal,repository,4,0
-张婷,Computational Geosciences,journal,3,18
+张婷,arXiv (Cornell University),repository,18,194
+张婷,Computational Geosciences,journal,9,95
+张婷,Stochastic Environmental Research and Risk Assessment,journal,7,86
+张婷,Research Square,repository,7,7
+张婷,SSRN Electronic Journal,repository,6,3
+张婷,IEEE Access,journal,6,303
+张婷,Applied Mechanics and Materials,journal,6,4
+张婷,Geofluids,journal,5,51
+张婷,Advanced materials research,journal,5,2
+张婷,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,4,4
+张婷,Propellants Explosives Pyrotechnics,journal,3,39
+张婷,Remote Sensing,journal,3,207
+张婷,Lecture notes in computer science,book series,3,21
+张婷,Journal of Physics Conference Series,journal,3,3
 张婷,Geoenergy Science and Engineering,journal,3,20
-张婷,Stochastic Environmental Research and Risk Assessment,journal,2,4
-张婷,Propellants Explosives Pyrotechnics,journal,2,5
+张婷,Transport in Porous Media,journal,3,31
+张婷,Information Sciences,journal,3,51
+张婷,Communications in computer and information science,book series,3,12
+张婷,Computers & Geosciences,journal,3,85
+张婷,Journal of Petroleum Science and Engineering,journal,3,79
+张婷,DEStech Transactions on Computer Science and Engineering,journal,3,13
+张婷,Ceramics International,journal,2,23
+张婷,Neural Networks,journal,2,48
+张婷,IEEE Sensors Journal,journal,2,12
 张婷,International Journal of Computing Science and Mathematics,journal,2,0
 张婷,Computers & Electrical Engineering,journal,2,18
+张婷,Knowledge-Based Systems,journal,2,57
+张婷,Ad Hoc Networks,journal,2,75
+张婷,Rock Mechanics and Rock Engineering,journal,2,46
+张婷,Lecture notes in civil engineering,book series,2,2
+张婷,Journal of Applied Geophysics,journal,2,28
+张婷,Pattern Recognition,journal,2,60
+张婷,Springer series in geomechanics and geoengineering,book series,2,0
+张婷,RSC Advances,journal,2,68
+张婷,Advanced Powder Technology,journal,2,38
+张婷,Cluster Computing,journal,2,59
+张婷,Composite Structures,journal,2,81
+张婷,Ocean Engineering,journal,2,25
+张婷,Acta Geologica Sinica - English Edition,journal,2,14
+张婷,Marine and Petroleum Geology,journal,2,31
+张婷,Neurocomputing,journal,2,179
+张婷,Fuel,journal,2,45
+张婷,Journal of Network and Computer Applications,journal,2,377
+张婷,IOP Conference Series Materials Science and Engineering,conference,2,0
+张婷,HAL (Le Centre pour la Communication Scientifique Directe),repository,2,2
+张婷,International Journal of Computer Theory and Engineering,journal,2,1
+张婷,Applied Soft Computing,journal,2,53
+张婷,Global marketing conference proceeding,conference,2,0
+张婷,High Performance Polymers,journal,2,20
+张婷,Energy Procedia,journal,2,0
+张婷,Journal of Tangshan College,journal,2,0
 张婷,Bulletin of Engineering Geology and the Environment,journal,1,0
 张婷,Accident Analysis & Prevention,journal,1,0
 张婷,npj Computational Materials,journal,1,0
 张婷,Chemical Engineering Science,journal,1,1
 张婷,Nuclear Techniques,journal,1,0
 张婷,ChemRxiv,repository,1,0
-张婷,Ceramics International,journal,1,2
 张婷,Frontiers in Public Health,journal,1,0
 张婷,Journal of Colloid and Interface Science,journal,1,0
 张婷,ArXiv.org,repository,1,0
@@ -618,23 +702,17 @@
 张婷,The Journal of Supercomputing,journal,1,2
 张婷,Orphanet Journal of Rare Diseases,journal,1,2
 张婷,Information Fusion,journal,1,2
-张婷,Neural Networks,journal,1,1
 张婷,Frontiers of digital education.,journal,1,2
 张婷,Organic Geochemistry,journal,1,1
 张婷,International Journal of Coal Science & Technology,journal,1,3
 张婷,Aquaculture International,journal,1,1
-张婷,Remote Sensing,journal,1,1
 张婷,Processes,journal,1,0
 张婷,ACS Omega,journal,1,2
-张婷,IEEE Sensors Journal,journal,1,1
 张婷,Information systems engineering and management,journal,1,1
 张婷,Astronomical Techniques and Instrument,journal,1,0
 张婷,Journal of Analytical and Applied Pyrolysis,journal,1,18
 张婷,Frontiers in Marine Science,journal,1,3
-张婷,Lecture notes in computer science,book series,1,8
-张婷,Knowledge-Based Systems,journal,1,2
 张婷,Sensors,journal,1,1
-张婷,Ad Hoc Networks,journal,1,17
 张婷,Journal of Thermal Analysis and Calorimetry,journal,1,6
 张婷,Robotics and Autonomous Systems,journal,1,12
 张婷,Global Ecology and Conservation,journal,1,3
@@ -642,39 +720,163 @@
 张婷,Nonlinear Analysis Real World Applications,journal,1,1
 张婷,JOM,journal,1,8
 张婷,Network Modeling Analysis in Health Informatics and Bioinformatics,journal,1,5
-张婷,Journal of Physics Conference Series,journal,1,2
 张婷,Colloids and Surfaces A Physicochemical and Engineering Aspects,journal,1,12
 张婷,Measurement,journal,1,2
 张婷,Engineering Fracture Mechanics,journal,1,34
 张婷,Journal of Energetic Materials,journal,1,6
-张婷,Rock Mechanics and Rock Engineering,journal,1,18
 张婷,Scientific Reports,journal,1,120
 张婷,Displays,journal,1,4
 张婷,Environmental Pollution,journal,1,8
 张婷,Separation and Purification Technology,journal,1,39
 张婷,Frontiers in Energy Research,journal,1,1
 张婷,Remote Sensing Letters,journal,1,1
-张婷,Transport in Porous Media,journal,1,11
 张婷,Computer Vision and Image Understanding,journal,1,19
-张婷,Lecture notes in civil engineering,book series,1,0
 张婷,Computers & Industrial Engineering,journal,1,17
+张婷,Process Safety and Environmental Protection,journal,1,17
+张婷,Water,journal,1,6
+张婷,Applied Composite Materials,journal,1,1
+张婷,Defence Technology,journal,1,69
+张婷,Applied Mathematical Modelling,journal,1,28
+张婷,2022 IEEE International Conference on Visual Communications and Image Processing (VCIP),conference,1,6
+张婷,Applied Sciences,journal,1,26
+张婷,Computer Modeling in Engineering & Sciences,journal,1,2
+张婷,Sustainability,journal,1,9
+张婷,Journal of Second Language Writing,journal,1,6
+张婷,Energy,journal,1,92
+张婷,Journal of Non-Crystalline Solids,journal,1,28
+张婷,Acta Geotechnica,journal,1,32
+张婷,Engineering Failure Analysis,journal,1,39
+张婷,Composites Part B Engineering,journal,1,28
+张婷,International Journal for Numerical and Analytical Methods in Geomechanics,journal,1,18
+张婷,Fibers and Polymers,journal,1,0
+张婷,Signal Image and Video Processing,journal,1,9
+张婷,Journal of Hydrology,journal,1,26
+张婷,Journal of Testing and Evaluation,journal,1,2
+张婷,Fluid dynamics & materials processing,journal,1,3
+张婷,Geological Journal,journal,1,12
+张婷,Journal of Mathematics,journal,1,1
+张婷,2021 International Conference on Electronic Information Technology and Smart Agriculture (ICEITSA),conference,1,3
+张婷,Soft Computing,journal,1,20
+张婷,Engineering With Computers,journal,1,59
+张婷,2021 3rd International Conference on Artificial Intelligence and Advanced Manufacture,conference,1,1
+张婷,Pure and Applied Geophysics,journal,1,2
+张婷,Computers & Chemical Engineering,journal,1,10
+张婷,Advances in Educational Technology and Psychology,journal,1,0
+张婷,International Journal of Rock Mechanics and Mining Sciences,journal,1,38
+张婷,Journal of Experimental & Theoretical Artificial Intelligence,journal,1,4
+张婷,The Science of The Total Environment,journal,1,36
+张婷,PubMed,repository,1,1
+张婷,Applied Intelligence,journal,1,79
+张婷,Chemical Engineering Journal,journal,1,40
+张婷,Engineering Analysis with Boundary Elements,journal,1,3
+张婷,Infrared Physics & Technology,journal,1,19
+张婷,IEEE Transactions on Intelligent Transportation Systems,journal,1,54
+张婷,Mathematical Problems in Engineering,journal,1,2
+张婷,International Journal of Machine Learning and Cybernetics,journal,1,3
+张婷,PAMM,journal,1,8
+张婷,Advances in intelligent systems and computing,book series,1,1
+张婷,Shock and Vibration,journal,1,9
+张婷,IOP Conference Series Earth and Environmental Science,conference,1,1
+张婷,Beijing Youdian Xueyuan xuebao,journal,1,0
+张婷,Journal of Shanghai Jiaotong University (Science),journal,1,8
+张婷,Frontiers of Medicine,journal,1,8
+张婷,British Journal of Radiology,journal,1,31
+张婷,Journal of Solid State Chemistry,journal,1,34
+张婷,Multimedia Tools and Applications,journal,1,10
+张婷,Diagnostics,journal,1,83
+张婷,Computer Communications,journal,1,100
+张婷,Eurographics,repository,1,7
+张婷,Acta Physica Sinica,journal,1,7
+张婷,Korea Journal of Chinese Linguistics,journal,1,0
+张婷,Engineering Computations,journal,1,28
+张婷,Energy & Fuels,journal,1,2
+张婷,The Computer Journal,journal,1,19
+张婷,Mechanics of Materials,journal,1,46
+张婷,European Journal of Mechanics - A/Solids,journal,1,39
+张婷,OCEANS 2019 - Marseille,journal,1,11
+张婷,Arabian Journal of Geosciences,journal,1,7
+张婷,IEEE Transactions on Neural Networks and Learning Systems,journal,1,8
+张婷,IEICE Technical Report; IEICE Tech. Rep.,journal,1,0
+张婷,SHILAP Revista de lepidopterología,journal,1,1
+张婷,IEICE Transactions on Information and Systems,journal,1,0
+张婷,Waste Management,journal,1,51
+张婷,Intelligent Data Analysis,journal,1,3
+张婷,Recent Advances in Electrical & Electronic Engineering (Formerly Recent Patents on Electrical & Electronic Engineering),journal,1,4
+张婷,E3S Web of Conferences,journal,1,0
+张婷,Construction and Building Materials,journal,1,37
+张婷,Solar Energy Materials and Solar Cells,journal,1,116
+张婷,Electrochimica Acta,journal,1,97
+张婷,"Defect and diffusion forum/Diffusion and defect data, solid state data. Part A, Defect and diffusion forum",journal,1,0
+张婷,Journal of Advanced Computational Intelligence and Intelligent Informatics,journal,1,10
+张婷,International Journal of Remote Sensing,journal,1,3
+张婷,International Journal of Remote Sensing Application,journal,1,1
+张婷,Xitong Kexue yu Shuxue,journal,1,1
+张婷,The International Journal of Advanced Manufacturing Technology,journal,1,47
+张婷,International Journal of Parallel Emergent and Distributed Systems,journal,1,3
+张婷,EURASIP Journal on Wireless Communications and Networking,journal,1,122
+张婷,Journal of Natural Gas Science and Engineering,journal,1,52
+张婷,Robotica,journal,1,26
+张婷,Advances in energy engineering,journal,1,1
+张婷,Procedia CIRP,journal,1,3
+张婷,Journal of Convergence Information Technology,journal,1,0
+张婷,Gong-kuang zidonghua,journal,1,0
+张婷,Journal of Hebei University of Engineering,journal,1,0
+张婷,Lecture notes in electrical engineering,book series,1,0
+张婷,Hebei Journal of Industrial Science and Technology,journal,1,0
+张婷,Laboratory Science,journal,1,0
+张婷,Microelectronics & Computer,journal,1,0
+张婷,Industrial Safety and Environmental Protection,journal,1,0
+张婷,China Food Additives,journal,1,0
+张婷,Key engineering materials,book series,1,2
+张婷,International Journal of Computers and Applications,journal,1,0
+张婷,Anhui nongye kexue,journal,1,0
+张婷,Nanjing Linye Daxue xuebao,journal,1,2
+张婷,Computer Integrated Manufacturing Systems,journal,1,1
+张婷,Jisuanji fangzhen,journal,1,0
+张婷,Journal of Xichang College,journal,1,0
+张婷,Chinese Control Conference,conference,1,4
+张婷,Communications technology,journal,1,1
+张婷,Wireless Communication Technology,journal,1,0
+张婷,Duanya jishu,journal,1,0
+张婷,Science China Physics Mechanics and Astronomy,journal,1,18
+张婷,Journal of University of Science and Technology Liaoning,journal,1,0
+张婷,2010 International Conference on Advanced Intelligence and Awareness Internet (AIAI 2010),conference,1,2
+张婷,Journal of Composite Materials,journal,1,3
+张婷,Science Bulletin,journal,1,29
+张婷,Composites Science and Technology,journal,1,19
+张婷,Computer Knowledge and Technology,journal,1,0
+张婷,Thermochimica Acta,journal,1,3
+张婷,Beijing Hangkong Hangtian Daxue xuebao,journal,1,0
+张婷,Science Technology and Engineering,journal,1,0
+张婷,Wuhan Daxue xuebao. Xinxi kexue ban,journal,1,2
+张婷,Journal of Inner Mongolia University for the Nationalities,journal,1,0
+张婷,Jisuanji gongcheng yu sheji,journal,1,0
+张婷,Jisuanji gongcheng,journal,1,4
+张婷,Acta Geodaetica et Cartographica Sinica,journal,1,5
+张婷,Computer Technology and Development,journal,1,0
+张婷,Dianzi Ke-ji Daxue xuebao,journal,1,0
+张婷,Journal of Jianghan University,journal,1,0
+张婷,Journal of Xi'an Institute of Physical Education,journal,1,0
+张婷,Dongwu xuebao,journal,1,2
+张家才,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,9,16
+张家才,Lecture notes in computer science,book series,7,19
 张家才,Toxins,journal,6,330
-张家才,Lecture notes in computer science,book series,4,9
 张家才,IEEE Transactions on Biomedical Engineering,journal,3,0
 张家才,IEEE Journal of Biomedical and Health Informatics,journal,3,47
 张家才,Cognitive Neurodynamics,journal,3,56
+张家才,PLoS ONE,journal,3,176
+张家才,Journal of Neuroscience Methods,journal,3,14
 张家才,Frontiers in Aging Neuroscience,journal,3,99
 张家才,Journal of Alzheimer s Disease,journal,3,152
-张家才,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,3,4
 张家才,Biomedical Signal Processing and Control,journal,2,5
 张家才,Preprints.org,repository,2,2
+张家才,Journal of Neural Engineering,journal,2,77
 张家才,IEEE Transactions on Neural Systems and Rehabilitation Engineering,journal,2,1
 张家才,Neurocomputing,journal,2,19
 张家才,Tetrahedron,journal,2,31
 张家才,Journal of Agricultural and Food Chemistry,journal,2,113
-张家才,PLoS ONE,journal,2,36
 张家才,IEEE Access,journal,2,36
-张家才,Journal of Neuroscience Methods,journal,2,4
+张家才,Lecture notes in electrical engineering,book series,2,9
 张家才,BioMed Research International,journal,2,152
 张家才,Signal processing research,journal,2,1
 张家才,Frontiers in Computational Neuroscience,journal,2,26
@@ -684,7 +886,6 @@
 张家才,Pattern Recognition,journal,1,1
 张家才,Metallurgical and Materials Transactions B,journal,1,0
 张家才,Mathematics,journal,1,2
-张家才,Journal of Neural Engineering,journal,1,4
 张家才,SSRN Electronic Journal,repository,1,0
 张家才,Research,journal,1,16
 张家才,Entropy,journal,1,1
@@ -707,7 +908,6 @@
 张家才,BMC Genomics,journal,1,53
 张家才,Small Ruminant Research,journal,1,34
 张家才,Human Brain Mapping,journal,1,8
-张家才,Lecture notes in electrical engineering,book series,1,3
 张家才,Figshare,repository,1,0
 张家才,IEEE Conference Proceedings,conference,1,0
 张家才,Food and Chemical Toxicology,journal,1,42
@@ -722,6 +922,9 @@
 张家才,Bio-Medical Materials and Engineering,journal,1,34
 张家才,Journal of Magnetic Resonance Imaging,journal,1,16
 张家才,Brain Research,journal,1,24
+张家才,"Conference proceedings/Conference proceedings - IEEE International Conference on Systems, Man, and Cybernetics",conference,1,3
+张家才,Journal of Electronics (China),journal,1,1
+张家才,Journal of Lanzhou University,journal,1,0
 张少魁,IEEE Transactions on Visualization and Computer Graphics,journal,5,55
 张少魁,arXiv (Cornell University),repository,4,31
 张少魁,Graphical Models,journal,2,23
@@ -729,13 +932,26 @@
 张少魁,Computational Visual Media,journal,1,0
 张少魁,Journal of Computer Science and Technology,journal,1,1
 张少魁,IEEE Access,journal,1,12
-张立保,IEEE Transactions on Geoscience and Remote Sensing,journal,14,207
-张立保,IEEE Geoscience and Remote Sensing Letters,journal,10,76
+张立保,IEEE Geoscience and Remote Sensing Letters,journal,23,494
+张立保,IEEE Transactions on Geoscience and Remote Sensing,journal,18,361
+张立保,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,12,21
+张立保,Neurocomputing,journal,6,108
+张立保,Lecture notes in computer science,book series,6,12
+张立保,Journal of Optoelectronics·laser,journal,5,2
 张立保,IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium,conference,4,0
+张立保,IEEE Conference Proceedings,conference,4,0
+张立保,International Journal of Remote Sensing,journal,3,90
+张立保,Remote Sensing,journal,3,37
+张立保,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,3,210
 张立保,Earthquake Science,journal,2,17
 张立保,SSRN Electronic Journal,repository,2,0
 张立保,2022 IEEE International Conference on Image Processing (ICIP),conference,2,12
 张立保,arXiv (Cornell University),repository,2,9
+张立保,IET Image Processing,journal,2,44
+张立保,GIScience & Remote Sensing,journal,2,28
+张立保,Journal of Visual Communication and Image Representation,journal,2,30
+张立保,Journal of Applied Remote Sensing,journal,2,16
+张立保,Lecture notes in control and information sciences,book series,2,0
 张立保,Journal of Electroanalytical Chemistry,journal,1,0
 张立保,BMC Surgery,journal,1,0
 张立保,BMC Musculoskeletal Disorders,journal,1,2
@@ -756,12 +972,32 @@
 张立保,Journal of Applied Biomaterials & Functional Materials,journal,1,4
 张立保,Water Science & Technology,journal,1,8
 张立保,Electrocatalysis,journal,1,25
-张立保,Neurocomputing,journal,1,14
-张立保,IET Image Processing,journal,1,15
+张立保,Viruses,journal,1,30
+张立保,Journal of Electronic Imaging,journal,1,5
+张立保,Gaoyuan qixiang,journal,1,0
+张立保,International Journal of Science and Engineering Applications,journal,1,16
+张立保,Computers & Geosciences,journal,1,12
+张立保,Image and Vision Computing,journal,1,26
+张立保,International Journal of Electronics,journal,1,6
+张立保,Remote Sensing Letters,journal,1,3
+张立保,Optical Review,journal,1,2
+张立保,Signal Processing,journal,1,16
+张立保,KSII Transactions on Internet and Information Systems,journal,1,1
+张立保,Scientia Sinica Informationis,journal,1,1
+张立保,Journal of Radio & TV University,journal,1,0
+张立保,Earth Science(Journal of China University of Geosciences),journal,1,1
+张立保,Journal of Weifang Educational College,journal,1,0
+张立保,Zhuzao,journal,1,0
+张立保,SHILAP Revista de lepidopterología,journal,1,1
+张立保,National Remote Sensing Bulletin,journal,1,1
+张立保,Journal of Beijing Normal University,journal,1,3
+张立保,International Journal of Applied Mathematics & Statistics/International journal of applied mathematics and statistics,journal,1,1
+张立保,International Journal of Computational Intelligence Research,journal,1,4
+张立保,Chinese Optics Letters,journal,1,5
 张钟军,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,1,17
-张鸿文,arXiv (Cornell University),repository,37,52
+张鸿文,arXiv (Cornell University),repository,48,290
+张鸿文,Lecture notes in computer science,book series,7,326
 张鸿文,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,5,267
-张鸿文,Lecture notes in computer science,book series,4,117
 张鸿文,ACM Transactions on Graphics,journal,3,103
 张鸿文,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),conference,3,295
 张鸿文,IEEE Transactions on Visualization and Computer Graphics,journal,2,0
@@ -772,6 +1008,9 @@
 张鸿文,SSRN Electronic Journal,repository,2,3
 张鸿文,Materials,journal,2,12
 张鸿文,2021 IEEE/CVF International Conference on Computer Vision (ICCV),conference,2,315
+张鸿文,Remote Sensing,journal,2,48
+张鸿文,Drugs in R&D,journal,2,16
+张鸿文,European Journal of Clinical Pharmacology,journal,2,27
 张鸿文,Tribology International,journal,1,0
 张鸿文,Agriculture,journal,1,0
 张鸿文,Frontiers in Bioengineering and Biotechnology,journal,1,0
@@ -782,32 +1021,55 @@
 张鸿文,International Petroleum Technology Conference,conference,1,0
 张鸿文,Applied Sciences,journal,1,14
 张鸿文,Offshore Technology Conference Asia,conference,1,2
-徐鹏飞,arXiv (Cornell University),repository,9,234
-徐鹏飞,Proceedings of the AAAI Conference on Artificial Intelligence,conference,4,352
-徐鹏飞,Lecture notes in computer science,book series,4,12
-徐鹏飞,Neurocomputing,journal,2,144
-徐鹏飞,ArXiv.org,repository,1,0
-徐鹏飞,Sensors,journal,1,2
-徐鹏飞,Electronics,journal,1,17
-徐鹏飞,Sensors and Materials,journal,1,0
-徐鹏飞,Distributed and Parallel Databases,journal,1,8
-徐鹏飞,SSRN Electronic Journal,repository,1,1
-徐鹏飞,2021 IEEE/CVF International Conference on Computer Vision (ICCV),conference,1,1
-徐鹏飞,International Journal of Computer Vision,journal,1,74
-徐鹏飞,IEEE Transactions on Cybernetics,journal,1,27
-徐鹏飞,Työväentutkimus Vuosikirja,journal,1,1
-徐鹏飞,Data Archiving and Networked Services (DANS),repository,1,1
-徐鹏飞,IEEE Transactions on Image Processing,journal,1,42
-徐鹏飞,Neural Information Processing Systems,conference,1,3
-徐鹏飞,International Journal of Data Science and Analytics,journal,1,10
-徐鹏飞,Mathematical Problems in Engineering,journal,1,7
-徐鹏飞,Signal Image and Video Processing,journal,1,10
-徐鹏飞,Computers & Graphics,journal,1,12
-徐鹏飞,IEEE Multimedia,journal,1,39
-徐鹏飞,ACM Transactions on Intelligent Systems and Technology,journal,1,17
-徐鹏飞,Multimedia Tools and Applications,journal,1,3
-徐鹏飞,Journal of Multimedia,journal,1,7
-徐鹏飞,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,2
+张鸿文,Journal of Hydrometeorology,journal,1,16
+张鸿文,International Journal of Computer Vision,journal,1,35
+张鸿文,Journal of Climate,journal,1,20
+张鸿文,IEEE Transactions on Image Processing,journal,1,10
+张鸿文,Clinical Drug Investigation,journal,1,1
+张鸿文,EasyChair preprint,journal,1,0
+张鸿文,IEEE Transactions on Information Forensics and Security,journal,1,64
+张鸿文,Cehui yu Kongjian Dili Xinxi,journal,1,0
+张鸿文,Journal of obstetrics and gynaecology research,journal,1,42
+张鸿文,Scientific Reports,journal,1,13
+张鸿文,Oncotarget,journal,1,42
+张鸿文,Gynecologic and Obstetric Investigation,journal,1,9
+张鸿文,Journal of Lipid Research,journal,1,138
+张鸿文,Yanwaishang zhiye yanbing zazhi,journal,1,0
+张鸿文,中国综合临床,journal,1,0
+张鸿文,Explosive Materials,journal,1,0
+张鸿文,Zhongguo quanke yixue,journal,1,0
+张鸿文,Geomatics & Spatial Information Technology,journal,1,0
+张鸿文,Guizhou kexue,journal,1,1
+张鸿文,Machinery Design and Manufacture,journal,1,0
+张鸿文,Journal of clinical research,journal,1,0
+张鸿文,Well Logging Technology,journal,1,0
+张鸿文,Computers & Graphics,journal,1,0
+徐鹏飞,IEEE Transactions on Visualization and Computer Graphics,journal,8,163
+徐鹏飞,ACM Transactions on Graphics,journal,4,53
+徐鹏飞,Multimedia Tools and Applications,journal,4,50
+徐鹏飞,Computational Visual Media,journal,3,9
+徐鹏飞,Lecture notes in computer science,book series,3,3
+徐鹏飞,Communications in computer and information science,book series,3,6
+徐鹏飞,ArXiv.org,repository,2,0
+徐鹏飞,arXiv (Cornell University),repository,2,8
+徐鹏飞,Neurocomputing,journal,2,86
+徐鹏飞,bioRxiv (Cold Spring Harbor Laboratory),repository,1,0
+徐鹏飞,Sensors,journal,1,0
+徐鹏飞,Journal of Physics Conference Series,journal,1,0
+徐鹏飞,BMC Endocrine Disorders,journal,1,0
+徐鹏飞,Computer Graphics Forum,journal,1,3
+徐鹏飞,PLoS ONE,journal,1,3
+徐鹏飞,Journal of Advances in Information Technology,journal,1,1
+徐鹏飞,Computers & Graphics,journal,1,1
+徐鹏飞,Journal of Computer-Aided Design & Computer Graphics,journal,1,1
+徐鹏飞,Sustainability,journal,1,16
+徐鹏飞,Optoelectronics Letters,journal,1,9
+徐鹏飞,Lecture notes in electrical engineering,book series,1,0
+徐鹏飞,Journal of Nanjing University of Posts and Telecommunications,journal,1,3
+徐鹏飞,Information and Electronic Engineering,journal,1,4
+徐鹏飞,Modern Computer,journal,1,0
+徐鹏飞,IEEE Transactions on Systems Man and Cybernetics Part B (Cybernetics),journal,1,27
+徐鹏飞,IEEE Transactions on Neural Networks,journal,1,105
 曾文艺,Information Sciences,journal,9,452
 曾文艺,International Journal of Intelligent Systems,journal,7,469
 曾文艺,Journal of Intelligent & Fuzzy Systems,journal,6,56
@@ -899,207 +1161,167 @@
 朱倩男,Cellular Physiology and Biochemistry,journal,1,15
 朱倩男,Lecture notes in computer science,book series,1,0
 朱倩男,Interactive Cardiovascular and Thoracic Surgery,journal,1,15
-朱林,European Journal of Nuclear Medicine and Molecular Imaging,journal,6,43
-朱林,Journal of Medicinal Chemistry,journal,5,41
-朱林,Nuclear Medicine and Biology,journal,4,8
-朱林,Clinical Nuclear Medicine,journal,3,11
-朱林,SSRN Electronic Journal,repository,3,1
-朱林,ICCREM 2021,conference,3,2
-朱林,EJNMMI Radiopharmacy and Chemistry,journal,2,0
-朱林,Chemical Engineering Journal,journal,2,6
-朱林,Research Square,repository,2,0
-朱林,Molecular Pharmaceutics,journal,2,20
-朱林,Blood Cancer Journal,journal,2,25
-朱林,Angewandte Chemie,journal,2,3
-朱林,PubMed,repository,2,5
-朱林,BMC Genomics,journal,1,0
-朱林,Journal of Materials Chemistry B,journal,1,2
-朱林,Journal of Nuclear Medicine,journal,1,0
-朱林,Toxicology and Applied Pharmacology,journal,1,0
-朱林,Water Research,journal,1,1
-朱林,BMC Medical Imaging,journal,1,2
-朱林,Frontiers in Public Health,journal,1,2
-朱林,Inorganic Chemistry,journal,1,0
-朱林,International Journal of Medical Informatics,journal,1,7
-朱林,Experimental Astronomy,journal,1,0
-朱林,American Journal of Respiratory and Critical Care Medicine,journal,1,0
-朱林,Animals,journal,1,0
-朱林,Translational Lung Cancer Research,journal,1,2
-朱林,International Journal of Extreme Manufacturing,journal,1,6
-朱林,Journal of Thoracic Oncology,journal,1,0
-朱林,Expert Systems with Applications,journal,1,12
-朱林,Rice,journal,1,2
-朱林,arXiv (Cornell University),repository,1,2
-朱林,经济学报.,journal,1,2
-朱林,Preprints.org,repository,1,0
-朱林,Journal of Agricultural and Food Chemistry,journal,1,30
-朱林,Catalysts,journal,1,3
-朱林,Alzheimer s & Dementia,journal,1,0
-朱林,Journal of East Asian Landscape Studies,journal,1,0
-朱林,Virus Research,journal,1,3
-朱林,Radiotherapy and Oncology,journal,1,0
-朱林,Computer Methods and Programs in Biomedicine,journal,1,12
-朱林,Quantitative Imaging in Medicine and Surgery,journal,1,2
-朱林,Journal of Gastrointestinal Oncology,journal,1,2
-朱林,Cartography and Geographic Information Science,journal,1,15
-朱林,Angewandte Chemie International Edition,journal,1,21
-朱林,Sustainability,journal,1,2
-朱林,Acta Psychologica Sinica,journal,1,5
-朱林,Neoplasma,journal,1,28
-朱林,Cancer Epidemiology Biomarkers & Prevention,journal,1,0
-朱林,Indian Journal of Pharmaceutical Sciences,journal,1,0
-朱林,BMJ Open,journal,1,18
-朱林,Journal of Labelled Compounds and Radiopharmaceuticals,journal,1,2
-朱林,Frontiers in Immunology,journal,1,8
-朱林,Acta Biomaterialia,journal,1,0
-朱林,BCP Social Sciences & Humanities,journal,1,0
-朱林,Food Hydrocolloids,journal,1,19
-朱林,International Journal of Cardiology,journal,1,0
-朱林,Ferroelectrics,journal,1,4
-朱林,Frontiers in Psychology,journal,1,3
-朱林,Frontiers in Endocrinology,journal,1,17
-朱林,Sensors and Actuators B Chemical,journal,1,43
-朱林,Tropical Journal of Pharmaceutical Research,journal,1,0
-朱林,Laser & Photonics Review,journal,1,0
-朱林,Frontiers in Oncology,journal,1,13
-李健,Exploring Education Policy in a Globalized World,book series,8,1
-李健,American Journal of Industrial Medicine,journal,3,1
-李健,Safety and Health at Work,journal,3,8
-李健,BMC Public Health,journal,3,53
-李健,Occupational Medicine,journal,3,0
-李健,International Journal of Environmental Research and Public Health,journal,2,43
-李健,PubMed,repository,2,0
-李健,Diabetes,journal,2,0
-李健,Preventive Medicine,journal,2,5
-李健,SSRN Electronic Journal,repository,2,0
-李健,Environment International,journal,2,86
-李健,Journal of Alloys and Compounds,journal,2,23
-李健,Frontiers in Public Health,journal,2,8
-李健,American Journal of Preventive Cardiology,journal,1,0
-李健,Asian Journal of Surgery,journal,1,0
-李健,International journal of Asian social science research.,journal,1,0
-李健,Research Square,repository,1,0
-李健,Acta Psychologica,journal,1,2
-李健,Journal of Psychosomatic Obstetrics & Gynecology,journal,1,0
-李健,Postgraduate Medical Journal,journal,1,0
-李健,Cognitive Development,journal,1,12
-李健,Surfaces and Interfaces,journal,1,2
-李健,Diabetes Therapy,journal,1,3
-李健,Ionics,journal,1,1
-李健,Scandinavian Journal of Work Environment & Health,journal,1,2
-李健,Current Issues in Molecular Biology,journal,1,1
-李健,One Health,journal,1,7
-李健,International Archives of Occupational and Environmental Health,journal,1,3
-李健,Journal of Occupational and Environmental Medicine,journal,1,4
-李健,Oral,journal,1,0
-李健,Value in Health,journal,1,1
-李健,Annals of Work Exposures and Health,journal,1,2
-李健,Journal of Epidemiology & Community Health,journal,1,0
-李健,American Journal of Preventive Medicine,journal,1,4
-李健,Psychiatry Research,journal,1,3
-李健,Education and lifelong development research.,journal,1,1
-李健,Solid State Ionics,journal,1,12
-李健,Transactions of the Association for Computational Linguistics,journal,1,147
-李健,časopis REHABILITÁCIA,journal,1,1
-李健,International Journal of Biological Macromolecules,journal,1,20
-李健,Journal of Health Communication,journal,1,14
-李健,Medicine & Science in Sports & Exercise,journal,1,5
-李健,Heliyon,journal,1,4
-李健,Medicina,journal,1,7
-李健,Journal of Preventive Medicine and Public Health,journal,1,3
-李健,Journal of Materials Science Materials in Electronics,journal,1,11
-李健,The Journal of Sex Research,journal,1,2
-李健,Journal of Urban Health,journal,1,5
-李健,Human Reproduction,journal,1,0
-李健,Frontiers in Microbiology,journal,1,0
-李健,Journal of the American Heart Association,journal,1,18
-李健,International Journal of Behavioral Medicine,journal,1,4
-李健,International Journal of Surgery,journal,1,17
-李健,Abstracts,journal,1,1
-李健,Circulation,journal,1,0
-李健,Occupational and Environmental Medicine,journal,1,8
-李健,Chemical Engineering Journal,journal,1,30
-李健,Frontiers in Surgery,journal,1,9
-李健,Journal of Clinical Medicine,journal,1,9
-李健,Epidemiology and Health,journal,1,4
-李健,Handbook series in occupational health sciences,book series,1,3
-李健,Biocell,journal,1,5
-李嘉,PLANT PHYSIOLOGY,journal,6,100
-李嘉,International Journal of Molecular Sciences,journal,5,49
-李嘉,Organic Letters,journal,5,45
-李嘉,The Plant Cell,journal,5,126
-李嘉,Journal of Integrative Plant Biology,journal,4,89
-李嘉,Journal of Soils and Sediments,journal,3,28
-李嘉,bioRxiv (Cold Spring Harbor Laboratory),repository,2,0
-李嘉,The Plant Journal,journal,2,0
-李嘉,Applied Soil Ecology,journal,2,4
-李嘉,CATENA,journal,2,45
-李嘉,SSRN Electronic Journal,repository,2,1
-李嘉,Frontiers in Microbiology,journal,2,13
-李嘉,Soil and Tillage Research,journal,2,11
-李嘉,The Science of The Total Environment,journal,2,54
-李嘉,Theoretical and Applied Genetics,journal,2,12
-李嘉,The EMBO Journal,journal,2,76
-李嘉,International Journal of Medical Informatics,journal,1,0
-李嘉,Journal of genetics and genomics/Journal of Genetics and Genomics,journal,1,1
-李嘉,Political Economy Quarterly,journal,1,0
-李嘉,Journal of Functional Foods,journal,1,1
-李嘉,Pharmacognosy Research,journal,1,0
-李嘉,Scientific Reports,journal,1,3
-李嘉,Land Degradation and Development,journal,1,4
-李嘉,aBIOTECH,journal,1,7
-李嘉,Virus Research,journal,1,0
-李嘉,Food & Nutrition Research,journal,1,3
-李嘉,PeerJ,journal,1,0
-李嘉,Chemistry - A European Journal,journal,1,11
-李嘉,Pakistan Journal of Pharmaceutical Sciences,journal,1,0
-李嘉,Organic Chemistry Frontiers,journal,1,0
-李嘉,Probiotics and Antimicrobial Proteins,journal,1,3
-李嘉,Frontiers in Plant Science,journal,1,12
-李嘉,Current Biology,journal,1,10
-李嘉,arXiv (Cornell University),repository,1,2
-李嘉,Proceedings of the National Academy of Sciences,journal,1,8
-李嘉,Biology and Fertility of Soils,journal,1,17
-李嘉,Plant and Cell Physiology,journal,1,26
-李嘉,PLoS ONE,journal,1,1
-李嘉,Plant Communications,journal,1,20
-李嘉,Nature Communications,journal,1,30
-李嘉,Antioxidants,journal,1,28
-李嘉,Plant Science,journal,1,12
-李嘉,Networks and Heterogeneous Media,journal,1,2
-李嘉,Environmental Monitoring and Assessment,journal,1,22
-李嘉,Journal of Basic Microbiology,journal,1,15
-李嘉,Angewandte Chemie,journal,1,4
-李嘉,Molecular Plant,journal,1,38
-李嘉,Lipids in Health and Disease,journal,1,10
-李嘉,Research Square,repository,1,0
-李嘉,Scientia Horticulturae,journal,1,4
-李嘉,Geoderma,journal,1,46
-李嘉,Molecules,journal,1,10
-李嘉,Experimental and Therapeutic Medicine,journal,1,6
-李嘉,Chaos An Interdisciplinary Journal of Nonlinear Science,journal,1,4
-李嘉,New Phytologist,journal,1,26
-李嘉,Advanced Synthesis & Catalysis,journal,1,10
-李嘉,Planta,journal,1,4
-李嘉,The Journal of Organic Chemistry,journal,1,11
-李嘉,Plants,journal,1,5
-李嘉,Sustainability,journal,1,7
-李嘉,Forests,journal,1,14
-李嘉,Computers and Electronics in Agriculture,journal,1,32
-李嘉,SHILAP Revista de lepidopterología,journal,1,16
-李嘉,Soil Biology and Biochemistry,journal,1,35
-李朱峰,Brain Behavior and Immunity,journal,6,3
-李朱峰,Materials Today Advances,journal,2,90
-李朱峰,Sensors,journal,1,2
-李朱峰,Journal of Back and Musculoskeletal Rehabilitation,journal,1,0
-李朱峰,Microelectronics Journal,journal,1,1
-李朱峰,Journal of Affective Disorders,journal,1,2
-李朱峰,Chinese Physics B,journal,1,1
-李朱峰,Biocell,journal,1,10
-李朱峰,Applied Materials Today,journal,1,68
-李朱峰,Scientific Reports,journal,1,19
-李朱峰,BMC Neurology,journal,1,128
-李朱峰,Neurological Research,journal,1,122
+朱林,IEEE Transactions on Circuits and Systems for Video Technology,journal,6,78
+朱林,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,6,59
+朱林,arXiv (Cornell University),repository,6,26
+朱林,ArXiv.org,repository,4,0
+朱林,Research Square,repository,3,3
+朱林,International Journal of Computer Vision,journal,2,2
+朱林,Neural Networks,journal,2,21
+朱林,IEEE Transactions on Multimedia,journal,2,47
+朱林,Lecture notes in computer science,book series,2,3
+朱林,Scientific Reports,journal,2,22
+朱林,Neurocomputing,journal,2,7
+朱林,IEEE Signal Processing Letters,journal,2,32
+朱林,2022 IEEE International Conference on Multimedia and Expo (ICME),conference,2,25
+朱林,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),conference,2,182
+朱林,Packaging Engineering,journal,2,1
+朱林,Preprints.org,repository,1,1
+朱林,Pattern Recognition,journal,1,9
+朱林,IEEE Robotics and Automation Letters,journal,1,0
+朱林,Sensors,journal,1,0
+朱林,Archives animal breeding/Archiv für Tierzucht,journal,1,0
+朱林,Applied Soft Computing,journal,1,1
+朱林,IEEE Transactions on Cognitive and Developmental Systems,journal,1,8
+朱林,Remote Sensing,journal,1,2
+朱林,Journal of Imaging,journal,1,0
+朱林,IEEE Transactions on Industry Applications,journal,1,0
+朱林,Studies in computational intelligence,book series,1,0
+朱林,Case Studies in Construction Materials,journal,1,12
+朱林,ISPRS Journal of Photogrammetry and Remote Sensing,journal,1,11
+朱林,International Journal of Digital Earth,journal,1,1
+朱林,Petroleum Science,journal,1,4
+朱林,Journal of Physics D Applied Physics,journal,1,6
+朱林,Applied Sciences,journal,1,8
+朱林,IEEE Transactions on Geoscience and Remote Sensing,journal,1,7
+朱林,SSRN Electronic Journal,repository,1,2
+朱林,IEEE Transactions on Cybernetics,journal,1,123
+朱林,IET Computer Vision,journal,1,33
+朱林,Biomedical Signal Processing and Control,journal,1,12
+朱林,Digital Signal Processing,journal,1,5
+朱林,BMC Bioinformatics,journal,1,15
+朱林,Information Sciences,journal,1,11
+朱林,The Visual Computer,journal,1,9
+朱林,IEEE Transactions on Image Processing,journal,1,109
+朱林,2021 IEEE/CVF International Conference on Computer Vision (ICCV),conference,1,47
+朱林,Pattern Recognition Letters,journal,1,2
+朱林,IOP Conference Series Earth and Environmental Science,conference,1,6
+朱林,Crystals,journal,1,14
+朱林,Seventh Symposium on Novel Photoelectronic Detection Technology and Applications,journal,1,2
+朱林,Lecture notes in electrical engineering,book series,1,0
+朱林,ACM Transactions on Multimedia Computing Communications and Applications,journal,1,24
+朱林,IOP Conference Series Materials Science and Engineering,conference,1,0
+朱林,Journal of Modern Optics,journal,1,13
+朱林,Optics Communications,journal,1,27
+朱林,Applied Mechanics and Materials,journal,1,3
+朱林,Geomatics world (Lemmer),journal,1,0
+朱林,Journal of the Japan society of photogrammetry and remote sensing,journal,1,2
+朱林,Transportation Research Board 93rd Annual MeetingTransportation Research Board,journal,1,0
+朱林,Journal of Public Transportation,journal,1,1
+朱林,"The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",journal,1,0
+朱林,Acta Astronomica Sinica,journal,1,3
+朱林,Railway Computer Application,journal,1,0
+朱林,Machine Graphics & Vision International Journal archive,journal,1,5
+朱林,WSCG (Short Papers),journal,1,6
+李健,arXiv (Cornell University),repository,36,229
+李健,Lecture notes in computer science,book series,6,82
+李健,IEEE Transactions on Neural Networks and Learning Systems,journal,3,12
+李健,Proceedings of the AAAI Conference on Artificial Intelligence,conference,3,16
+李健,Neural Networks,journal,2,25
+李健,International Journal of Continuing Engineering Education and Life-Long Learning,journal,2,2
+李健,IEEE Transactions on Information Theory,journal,2,35
+李健,Journal of Physics Conference Series,journal,2,5
+李健,Findings of the Association for Computational Linguistics: ACL 2022,conference,2,35
+李健,Optics and Lasers in Engineering,journal,2,756
+李健,ArXiv.org,repository,1,0
+李健,Neurocomputing,journal,1,0
+李健,Digital Signal Processing,journal,1,0
+李健,Applied Intelligence,journal,1,10
+李健,BMC Medical Informatics and Decision Making,journal,1,8
+李健,Pattern Recognition,journal,1,1
+李健,5th International Conference on Computer Information Science and Application Technology (CISAT 2022),conference,1,0
+李健,Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management,conference,1,1
+李健,Artificial Intelligence,journal,1,8
+李健,Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy,journal,1,26
+李健,Desalination and Water Treatment,journal,1,0
+李健,Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence,conference,1,2
+李健,ACS Omega,journal,1,13
+李健,2022 IEEE 38th International Conference on Data Engineering (ICDE),conference,1,7
+李健,2021 CIE International Conference on Radar (Radar),conference,1,1
+李健,2021 IEEE International Conference on Data Mining (ICDM),conference,1,3
+李健,SHILAP Revista de lepidopterología,journal,1,0
+李健,Communications in computer and information science,book series,1,1
+李健,Open Forum Infectious Diseases,journal,1,11
+李健,IEEE Transactions on Games,journal,1,5
+李健,Perspectives on rethinking and reforming education,book series,1,0
+李健,Research in Astronomy and Astrophysics,journal,1,2
+李健,IEEE Access,journal,1,14
+李健,Neural Information Processing Systems,conference,1,38
+李健,Pesticide Biochemistry and Physiology,journal,1,1
+李健,International Journal of Database Theory and Application,journal,1,1
+李健,Advanced materials research,journal,1,0
+李健,Journal of Image and Graphics,journal,1,0
+李健,Journal of Hubei Radio & Television University,journal,1,0
+李健,Cambridge University Press eBooks,ebook platform,1,2
+李健,International Journal of Computer Vision,journal,1,45
+李健,Proceedings of the VLDB Endowment,journal,1,7
+李健,JOURNAL OF ELECTRONICS INFORMATION TECHNOLOGY,journal,1,1
+李健,Acta Entomologica Sinica,journal,1,1
+李健,Bulletin of Sport Science & Technology,journal,1,0
+李健,Tsinghua Science & Technology,journal,1,9
+李健,Journal of Sichuan College of Education,journal,1,0
+李健,IEEE Transactions on Aerospace and Electronic Systems,journal,1,2
+李健,Sichuan University of Arts and Science Journal,journal,1,0
+李健,International Journal of Production Economics,journal,1,65
+李健,"Proceedings. IEEE/WIC/ACM International Conference on Intelligent Agent Technology, 2004. (IAT 2004).",conference,1,4
+李健,Henan Chemical Industry,journal,1,0
+李健,IEEE International Conference on Acoustics Speech and Signal Processing,conference,1,12
+李健,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,1
+李健,Journal of Northeast Forestry University,journal,1,1
+李嘉,arXiv (Cornell University),repository,6,57
+李嘉,IEEE Transactions on Image Processing,journal,5,70
+李嘉,Lecture notes in computer science,book series,4,50
+李嘉,International Journal of Computer Vision,journal,4,279
+李嘉,IEEE Signal Processing Letters,journal,3,33
+李嘉,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,3,1
+李嘉,Optik,journal,3,43
+李嘉,Applied Mechanics and Materials,journal,3,1
+李嘉,Applied Optics,journal,2,75
+李嘉,Applied and Computational Harmonic Analysis,journal,2,174
+李嘉,Physics of Fluids,journal,1,2
+李嘉,ArXiv.org,repository,1,0
+李嘉,Lecture notes in electrical engineering,book series,1,0
+李嘉,International Journal of Digital Earth,journal,1,4
+李嘉,IEEE Journal of Biomedical and Health Informatics,journal,1,11
+李嘉,Pattern Recognition,journal,1,8
+李嘉,Journal of Software Evolution and Process,journal,1,1
+李嘉,Ore Geology Reviews,journal,1,9
+李嘉,Proceedings of the VLDB Endowment,journal,1,5
+李嘉,Geological Society of America Bulletin,journal,1,8
+李嘉,Bulletin of the American Physical Society,journal,1,0
+李嘉,InfoMat,journal,1,0
+李嘉,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,1,19
+李嘉,"World Academy of Science, Engineering and Technology, International Journal of Computer and Information Engineering",journal,1,0
+李嘉,International Journal of Transportation Science and Technology,journal,1,9
+李嘉,Journal of Electronic Imaging,journal,1,5
+李嘉,DEStech Transactions on Engineering and Technology Research,journal,1,8
+李嘉,Journal of Computational and Theoretical Nanoscience,journal,1,0
+李嘉,Infrared Physics & Technology,journal,1,34
+李嘉,International Journal of Multimedia and Ubiquitous Engineering,journal,1,1
+李嘉,Journal of the Optical Society of America A,journal,1,49
+李嘉,Acta Petrologica Sinica,journal,1,2
+李嘉,Zhongguo jieru yingxiang yu zhiliaoxue,journal,1,0
+李嘉,International Journal of Online and Biomedical Engineering (iJOE),journal,1,2
+李嘉,Xinxi wangluo anquan,journal,1,0
+李嘉,Science China Earth Sciences,journal,1,19
+李嘉,JOURNAL OF INFRARED AND MILLIMETER WAVES,journal,1,7
+李嘉,Microelectronics & Computer,journal,1,0
+李嘉,Science China Information Sciences,journal,1,22
+李嘉,Shanxi Architecture,journal,1,0
+李嘉,Jisuanji gongcheng,journal,1,0
+李嘉,Energy Procedia,journal,1,1
+李嘉,Chinese Science Bulletin,journal,1,3
+李嘉,哈尔滨工业大学学报(英文版),journal,1,0
 栾华,Lecture notes in computer science,book series,3,13
 栾华,International Journal of Computational Science and Engineering,journal,2,0
 栾华,Journal of Software,journal,2,4
@@ -1169,52 +1391,8 @@
 武仲科,PRESENCE Virtual and Augmented Reality,journal,1,7
 武仲科,Forensic Science International,journal,1,42
 武仲科,Figshare,repository,1,0
-段福庆,Lecture notes in computer science,book series,10,20
-段福庆,arXiv (Cornell University),repository,8,19
-段福庆,Academic Radiology,journal,3,19
-段福庆,Multimedia Tools and Applications,journal,3,20
-段福庆,Computers & Graphics,journal,3,27
-段福庆,IEEE Transactions on Multimedia,journal,2,6
-段福庆,IEEE Transactions on Computational Imaging,journal,2,66
-段福庆,Frontiers of Computer Science,journal,2,9
-段福庆,Complex & Intelligent Systems,journal,2,16
-段福庆,Communications in computer and information science,book series,2,0
-段福庆,Science China Information Sciences,journal,2,23
-段福庆,IET Image Processing,journal,2,11
-段福庆,Monthly Notices of the Royal Astronomical Society,journal,2,42
-段福庆,Journal of Computer Science and Technology,journal,2,17
-段福庆,PLoS ONE,journal,2,21
-段福庆,Radiology and Oncology,journal,1,0
-段福庆,Translational Lung Cancer Research,journal,1,3
-段福庆,Current Oncology,journal,1,3
-段福庆,IEEE Robotics and Automation Letters,journal,1,7
-段福庆,IEEE Transactions on Circuits and Systems for Video Technology,journal,1,26
-段福庆,ACM Transactions on Multimedia Computing Communications and Applications,journal,1,0
-段福庆,The Astrophysical Journal Supplement Series,journal,1,3
-段福庆,The Astrophysical Journal,journal,1,2
-段福庆,The Visual Computer,journal,1,5
-段福庆,Journal of Visual Communication and Image Representation,journal,1,2
-段福庆,IET Computer Vision,journal,1,3
-段福庆,Lecture notes in electrical engineering,book series,1,0
-段福庆,2022 IEEE International Conference on Image Processing (ICIP),conference,1,4
-段福庆,Proceedings of the 30th ACM International Conference on Multimedia,conference,1,13
-段福庆,IEEE Transactions on Intelligent Transportation Systems,journal,1,122
-段福庆,2022 26th International Conference on Pattern Recognition (ICPR),conference,1,0
-段福庆,2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW),conference,1,1
-段福庆,Signal Processing Image Communication,journal,1,7
-段福庆,Astronomy and Astrophysics,journal,1,37
-段福庆,Knowledge-Based Systems,journal,1,23
-段福庆,Applied Sciences,journal,1,3
-段福庆,IEEE Access,journal,1,36
-段福庆,Advances in Astronomy,journal,1,2
-段福庆,J. Inf. Hiding Multim. Signal Process.,journal,1,2
-段福庆,Reproductive BioMedicine Online,journal,1,12
-段福庆,Proceedings of the International Astronomical Union,journal,1,0
-段福庆,Pattern Recognition Letters,journal,1,10
-段福庆,Neurocomputing,journal,1,25
-段福庆,IEEE Conference Proceedings,conference,1,0
-段福庆,Murdoch Research Repository (Murdoch University),repository,1,9
-段福庆,Computational and Mathematical Methods in Medicine,journal,1,15
+段福庆,SSRN Electronic Journal,repository,1,0
+段福庆,IEEE Computer Graphics and Applications,journal,1,0
 王一凯,arXiv (Cornell University),repository,24,138
 王一凯,IEEE Transactions on Image Processing,journal,3,30
 王一凯,ArXiv.org,repository,2,0
@@ -1229,145 +1407,176 @@
 王一凯,Neural Plasticity,journal,1,20
 王一凯,Communications in computer and information science,book series,1,4
 王一凯,IEEE Transactions on Biomedical Engineering,journal,1,151
-王兵,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,3,1
-王兵,arXiv (Cornell University),repository,2,5
-王兵,PubMed,repository,2,5
-王兵,Rock Mechanics and Rock Engineering,journal,1,0
-王兵,Electronics,journal,1,0
-王兵,Neuroscience Bulletin,journal,1,1
-王兵,Journal of Hydrology Regional Studies,journal,1,6
-王兵,Journal of Image and Graphics,journal,1,0
-王兵,Chinese Journal of Plant Ecology,journal,1,0
-王兵,Earth Planets and Space,journal,1,7
-王兵,Atlantis highlights in engineering/Atlantis Highlights in Engineering,book series,1,0
-王兵,Advances in Economics Management and Political Sciences,journal,1,0
-王兵,IOP Conference Series Earth and Environmental Science,conference,1,2
-王兵,Journal of Computer and Communications,journal,1,5
-王兵,American Journal of Agricultural Economics,journal,1,15
-王兵,Proceedings of the International Association of Hydrological Sciences,journal,1,0
-王兵,European Journal of Remote Sensing,journal,1,42
-王兵,Communications in computer and information science,book series,1,2
-王兵,Biomaterials Science,journal,1,146
-王兵,Advances in Meteorology,journal,1,41
-王兵,Catalysis Science & Technology,journal,1,57
-王兵,MODSIM,conference,1,0
-王兵,工程地质学报,journal,1,2
-王兵,Bulletin of Surveying and Mapping,journal,1,0
-王兵,Lithos,journal,1,255
-王兵,Geomatics & Spatial Information Technology,journal,1,1
-王兵,China Economic Quarterly,journal,1,7
-王兵,Lecture notes in geoinformation and cartography,book series,1,5
-王兵,Geo-spatial Information Science,journal,1,1
-王兵,Yinshan Academic Journal,journal,1,2
-王兵,PolyU Institutional Research Archive (Hong Kong Polytechnic University),repository,1,13
-王兵,Precambrian Research,journal,1,87
-王学松,arXiv (Cornell University),repository,7,0
-王学松,IEEE Transactions on Systems Man and Cybernetics Systems,journal,5,9
-王学松,ArXiv.org,repository,3,0
-王学松,IEEE Transactions on Cognitive and Developmental Systems,journal,3,8
-王学松,Scientific Reports,journal,2,5
-王学松,Gastroenterology,journal,2,0
-王学松,Chemical Engineering Journal,journal,2,10
-王学松,IEEE Transactions on Image Processing,journal,2,1
-王学松,IEEE Transactions on Computational Social Systems,journal,2,1
-王学松,IEEE Transactions on Neural Networks and Learning Systems,journal,2,3
-王学松,IEEE Transactions on Industrial Informatics,journal,2,3
-王学松,IEEE Transactions on Instrumentation and Measurement,journal,2,0
-王学松,IEEE Transactions on Geoscience and Remote Sensing,journal,2,3
-王学松,Remote Sensing,journal,2,8
-王学松,Research Square,repository,2,1
-王学松,Atmosphere,journal,1,1
-王学松,The International Journal of Advanced Manufacturing Technology,journal,1,1
-王学松,Journal of Infrastructure Preservation and Resilience,journal,1,3
-王学松,IEEE Transactions on Emerging Topics in Computational Intelligence,journal,1,0
-王学松,Microchimica Acta,journal,1,1
-王学松,Structures,journal,1,0
-王学松,Scientia Sinica Informationis,journal,1,0
-王学松,Computer Methods and Programs in Biomedicine,journal,1,0
-王学松,ESAIM. Mathematical modelling and numerical analysis,journal,1,1
-王学松,IEEE Transactions on Intelligent Transportation Systems,journal,1,1
-王学松,Journal of Clinical Medicine Research,journal,1,0
-王学松,Journal of Applied Geophysics,journal,1,1
-王学松,Talanta,journal,1,12
-王学松,Computer Animation and Virtual Worlds,journal,1,6
-王学松,Journal of Manufacturing Processes,journal,1,0
-王学松,Neural Networks,journal,1,2
-王学松,Journal for ImmunoTherapy of Cancer,journal,1,10
-王学松,Journal of Electrical Engineering and Technology,journal,1,1
-王学松,Optics and Lasers in Engineering,journal,1,0
-王学松,Digital Communications and Networks,journal,1,0
-王学松,Sustainability,journal,1,0
-王学松,Proceedings of the National Academy of Sciences,journal,1,0
-王学松,SSRN Electronic Journal,repository,1,0
-王学松,International Journal of Applied Earth Observation and Geoinformation,journal,1,3
-王学松,Heliyon,journal,1,0
-王学松,IEEE/CAA Journal of Automatica Sinica,journal,1,2
-王学松,Mathematics of Computation,journal,1,6
-王学松,Preprints.org,repository,1,0
-王学松,Economic society and humanities.,journal,1,0
-王学松,Numerical Algorithms,journal,1,2
-王学松,Paediatrics & Child Health,journal,1,2
-王学松,IEEE Transactions on Vehicular Technology,journal,1,9
-王学松,World Journal of Traditional Chinese Medicine,journal,1,1
-王学松,Journal of Saudi Chemical Society,journal,1,0
-王学松,Materials Today Communications,journal,1,1
-王学松,Nonlinear Dynamics,journal,1,1
-王学松,Infrared Physics & Technology,journal,1,4
-王学松,Science Translational Medicine,journal,1,11
-王学松,Applied Numerical Mathematics,journal,1,0
-王学松,Journal of Scientific Computing,journal,1,10
-王学松,The Science of The Total Environment,journal,1,26
-王学松,Construction and Building Materials,journal,1,6
-王学松,Neurocomputing,journal,1,8
-王学松,IEEE Transactions on Wireless Communications,journal,1,26
-王学松,Transportation Research Part C Emerging Technologies,journal,1,22
-王学松,Applied Thermal Engineering,journal,1,7
-王川,arXiv (Cornell University),repository,4,73
-王川,IEEE Transactions on Image Processing,journal,3,60
-王川,Proceedings of the AAAI Conference on Artificial Intelligence,conference,3,113
-王川,SSRN Electronic Journal,repository,2,0
-王川,BMC Bioinformatics,journal,2,63
-王川,Light Science & Applications,journal,1,3
-王川,Advanced Engineering Informatics,journal,1,0
-王川,Applied Energy,journal,1,6
-王川,Journal of the Japan Society of Powder and Powder Metallurgy,journal,1,0
-王川,Diamond and Related Materials,journal,1,5
-王川,Applied and Computational Engineering,journal,1,0
-王川,Energy Reviews,journal,1,84
-王川,2022 IEEE International Conference on Unmanned Systems (ICUS),conference,1,1
-王川,Proceedings of the 30th ACM International Conference on Multimedia,conference,1,4
-王川,Physical review. D/Physical review. D.,journal,1,2
-王川,Journal of Materials Research and Technology,journal,1,85
-王川,"ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",conference,1,2
-王川,Proceedings of the ACM Web Conference 2022,conference,1,35
-王川,Neural Information Processing Systems,conference,1,28
-王川,Computer Graphics Forum,journal,1,8
-王川,Quantum Engineering,journal,1,13
+王川,Optics Express,journal,25,812
+王川,arXiv (Cornell University),repository,17,18
+王川,International Journal of Theoretical Physics,journal,11,57
+王川,IEEE photonics journal,journal,10,136
+王川,Quantum Information Processing,journal,9,123
+王川,Optics Communications,journal,9,477
+王川,Physical Review A,journal,9,1501
+王川,Europhysics Letters (EPL),journal,8,47
+王川,Figshare,repository,8,0
+王川,Science China Physics Mechanics and Astronomy,journal,7,102
+王川,Lecture notes in electrical engineering,book series,7,12
+王川,Communications in Theoretical Physics,journal,7,144
+王川,"Physical review. A/Physical review, A",journal,6,209
+王川,ArXiv.org,repository,5,1
+王川,SSRN Electronic Journal,repository,5,0
+王川,Journal of the Optical Society of America B,journal,5,63
+王川,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,5,5
+王川,Chinese Physics B,journal,5,54
+王川,Acta Physica Sinica,journal,4,8
+王川,International Journal of Quantum Information,journal,4,65
+王川,Scientific Reports,journal,4,106
+王川,Advanced materials research,journal,4,6
+王川,Chinese Physics Letters,journal,4,47
+王川,Research Square,repository,3,2
+王川,Nanophotonics,journal,3,48
+王川,Photonics Research,journal,3,93
+王川,Modern Physics Letters B,journal,3,21
+王川,Frontiers of Optoelectronics,journal,3,2
+王川,Laser Physics Letters,journal,3,57
+王川,Applied Mechanics and Materials,journal,3,2
+王川,Chinese Science Bulletin,journal,3,102
+王川,Journal of Hydrology,journal,2,43
+王川,Journal of Lightwave Technology,journal,2,38
+王川,Frontiers of Physics,journal,2,57
+王川,Chinese Science Bulletin (Chinese Version),journal,2,3
+王川,Optics Letters,journal,2,39
+王川,Fundamental Research,journal,2,73
+王川,IEEE Sensors Journal,journal,2,14
+王川,Zenodo (CERN European Organization for Nuclear Research),repository,2,1
+王川,Annalen der Physik,journal,2,5
+王川,IEEE Access,journal,2,19
+王川,IEEE Journal of Quantum Electronics,journal,2,19
+王川,Optik,journal,2,17
+王川,Soft Computing,journal,2,36
+王川,Laser Physics,journal,2,12
+王川,Quantum Information and Computation,journal,2,61
+王川,Journal of Modern Optics,journal,2,9
+王川,Journal of Jiangsu Teachers University of Technology,journal,2,0
+王川,Computers & Electrical Engineering,journal,1,0
+王川,Research,journal,1,0
+王川,Molecular Physics,journal,1,0
+王川,Physical Review Applied,journal,1,0
+王川,Journal of Process Control,journal,1,2
+王川,Journal of Molecular Modeling,journal,1,2
+王川,Environmental Geotechnics,journal,1,1
+王川,Frontiers in Immunology,journal,1,1
+王川,Photonic Sensors,journal,1,2
+王川,IEEE Transactions on Intelligent Transportation Systems,journal,1,3
+王川,Frontiers in Veterinary Science,journal,1,3
+王川,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1,1
+王川,Behavioral and Brain Functions,journal,1,17
+王川,Journal of Arid Land,journal,1,1
+王川,Postgraduate Medical Journal,journal,1,2
+王川,Advanced Quantum Technologies,journal,1,0
+王川,Physical review. C,journal,1,10
+王川,IEEE Communications Letters,journal,1,28
+王川,EPJ Quantum Technology,journal,1,0
+王川,IEEE Transactions on Nanotechnology,journal,1,1
+王川,American Journal of Civil Engineering,journal,1,0
+王川,Quantum,journal,1,10
+王川,Journal of Marine Science and Technology,journal,1,11
+王川,Electronics,journal,1,4
+王川,New Journal of Physics,journal,1,46
+王川,Results in Physics,journal,1,29
+王川,AAPPS bulletin,journal,1,53
+王川,Materials,journal,1,29
+王川,IEEE Transactions on Games,journal,1,43
+王川,2022 5th World Conference on Mechanical Engineering and Intelligent Manufacturing (WCMEIM),conference,1,0
+王川,Micromachines,journal,1,1
+王川,Journal of the Hong Kong College of Cardiology,journal,1,0
+王川,2022 IEEE International Conference on Unmanned Systems (ICUS),conference,1,2
+王川,Sensors,journal,1,11
+王川,Expert Systems with Applications,journal,1,38
+王川,Chinese Chemical Letters,journal,1,5
+王川,Applied Intelligence,journal,1,12
+王川,Journal of Energy Storage,journal,1,64
+王川,Materials Chemistry and Physics,journal,1,23
+王川,Sustainability,journal,1,8
+王川,IEEE Wireless Communications,journal,1,15
+王川,Crystals,journal,1,6
+王川,Energy,journal,1,33
+王川,Dermatologic Therapy,journal,1,3
+王川,Microprocessors and Microsystems,journal,1,0
+王川,IEEE Transactions on Quantum Engineering,journal,1,2
+王川,Journal of Material Science and Technology,journal,1,28
+王川,Journal of Catalysis,journal,1,55
+王川,IEEE Transactions on Evolutionary Computation,journal,1,149
+王川,Physical review. E,journal,1,29
+王川,The Journal of Supercomputing,journal,1,7
+王川,DEStech Transactions on Social Science Education and Human Science,journal,1,0
+王川,Energies,journal,1,15
+王川,UA Campus Repository (The University of Arizona),repository,1,0
+王川,Journal of Ambient Intelligence and Humanized Computing,journal,1,4
+王川,OSA Continuum,journal,1,4
+王川,Chemical Engineering Science,journal,1,11
+王川,Clinical Investigation,journal,1,1
+王川,Propulsion and Power Research,journal,1,6
+王川,"Proceedings of the 2017 3rd International Forum on Energy, Environment Science and Materials (IFEESM 2017)",journal,1,5
+王川,ETA Florence,repository,1,4
+王川,Journal of Electromagnetic Waves and Applications,journal,1,6
+王川,Corrosion Engineering Science and Technology The International Journal of Corrosion Processes and Corrosion Control,journal,1,32
+王川,Conference on Lasers and Electro-Optics,conference,1,2
+王川,China Environmental Science,journal,1,1
+王川,Journal of Photochemistry and Photobiology B Biology,journal,1,52
+王川,Zhonghua yixue keyan guanli zazhi,journal,1,0
+王川,Annals of Physics,journal,1,44
+王川,International Journal of Modern Physics B,journal,1,9
+王川,Science Bulletin,journal,1,44
+王川,Journal of Power Electronics,journal,1,6
+王川,International Journal of Signal Processing Image Processing and Pattern Recognition,journal,1,5
 王川,Lecture notes in computer science,book series,1,1
-王川,Annals of Microbiology,journal,1,2
-王川,The Science of The Total Environment,journal,1,109
-王川,Corrosion Engineering Science and Technology The International Journal of Corrosion Processes and Corrosion Control,journal,1,21
-王川,International Journal of Modelling Identification and Control,journal,1,1
-王川,Chinese Physics B,journal,1,24
-王川,Genome Research,journal,1,225
-王川,IEEE Transactions on Multimedia,journal,1,40
-王川,Journal of Lanzhou University of Arts and Science,journal,1,0
-王川,Aaltodoc (Aalto University),repository,1,0
-王川,IFAC Proceedings Volumes,journal,1,3
-王川,Advances in intelligent and soft computing,book series,1,0
-王川,International Journal of Hydrogen Energy,journal,1,7
-王川,Journal of Yancheng Institute of Technology,journal,1,0
-王川,Communication of Vocational Education,journal,1,0
-王川,Computers & Security,journal,1,0
-王川,Computer Knowledge and Technology,journal,1,0
-王川,Journal of Library and Information Sciences in Agriculture,journal,1,0
-王川,Journal of Pingyuan University,journal,1,0
-王川,Journal of Henan Normal University,journal,1,0
-王川,Computers & Geosciences,journal,1,2
-王川,Bulletin of Surveying and Mapping,journal,1,0
-王川,Journal of Qiqihar University Thilosophy,journal,1,0
-王川,Shandong Nongye Daxue xuebao,journal,1,0
-王川,Experimental Petroleum Geology,journal,1,2
+王川,Zhiye yu jiankang,journal,1,0
+王川,Gaodianya Jishu,journal,1,0
+王川,Indonesian Journal of Electrical Engineering and Computer Science,journal,1,0
+王川,Electric Power Systems Research,journal,1,36
+王川,IEEE Journal of Selected Topics in Quantum Electronics,journal,1,13
+王川,Engineering Applications of Artificial Intelligence,journal,1,29
+王川,IEEE Transactions on Plasma Science,journal,1,8
+王川,Nuclear Science and Techniques,journal,1,2
+王川,Science China Information Sciences,journal,1,4
+王川,International Journal of Advancements in Computing Technology,journal,1,0
+王川,International Journal of Digital Content Technology and its Applications,journal,1,2
+王川,The Rochester Conferences on Coherence and Quantum Optics and the Quantum Information and Measurement meeting,conference,1,8
+王川,Chemical Engineering Journal,journal,1,93
+王川,Ship Engineering,journal,1,0
+王川,Nuclear Techniques,journal,1,0
+王川,Molecular Plant,journal,1,85
+王川,Journal of Russian Laser Research,journal,1,2
+王川,Physica A Statistical Mechanics and its Applications,journal,1,4
+王川,Journal of the American Chemical Society,journal,1,422
+王川,Zhongguo kexue. Wulixue Lixue Tianwenxue,journal,1,27
+王川,Shipbuilding of China,journal,1,0
+王川,Computer Systems and Applications,journal,1,0
+王川,Journal of Biomedical Optics,journal,1,2
+王川,Journal of Hebei Polytechnic University,journal,1,0
+王川,Journal of Harbin University of Commerce,journal,1,0
+王川,Neurocomputing,journal,1,97
+王川,Journal of Physics B Atomic Molecular and Optical Physics,journal,1,12
+王川,InTech eBooks,ebook platform,1,3
+王川,The Journal of Physical Chemistry C,journal,1,14
+王川,Journal of Innovative Optical Health Sciences,journal,1,4
+王川,Coal Technology,journal,1,0
+王川,Chinese Optics Letters,journal,1,7
+王川,"Science in China. Series E, Technological sciences/Science in China. Series E, Technological Sciences",journal,1,19
+王川,Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment,journal,1,9
+王川,Yunnan Daxue xuebao. Shehui kexue ban,journal,1,1
+王川,PubMed,repository,1,0
+王川,Chuangan jishu xuebao,journal,1,12
+王川,Frontiers of Physics in China,journal,1,311
+王川,Kyouikugaku no kenkyuu to jissen,journal,1,0
+王川,"Science in China. Series G, Physics, mechanics & astronomy/Science in China. Series G, Physics, Mechanics & Astronomy",journal,1,0
+王川,Chinese Journal of Pharmaceuticals,journal,1,0
+王川,Journal of Henan Mechanic and Electric Engineering College,journal,1,0
+王川,Journal of Qingdao University of Science and Technology,journal,1,0
+王川,Journal of Chongqing University. English Edition,journal,1,0
+王川,Coal Geology & Exploration,journal,1,1
+王川,Proceedings of International Conference on Neural Networks (ICNN'96),conference,1,2
+王川,Journal of Huainan Vocational & Technical College,journal,1,0
+王川,Railway Transport and Economy,journal,1,0
+王川,IEEE Transactions on Vehicular Technology,journal,1,3
 王志春,Lecture notes in computer science,book series,4,9
 王志春,Communications in computer and information science,book series,4,2
 王志春,Advances in transdisciplinary engineering,book series,3,0
@@ -1431,82 +1640,12 @@
 王志春,Inter J Epidemionl Infect Dis,journal,1,0
 王慎玲,EURASIP Journal on Wireless Communications and Networking,journal,1,14
 王慎玲,Research Square,repository,1,2
-王晶,Food Chemistry,journal,7,44
-王晶,International Journal of Biological Macromolecules,journal,6,38
-王晶,SSRN Electronic Journal,repository,5,0
-王晶,Foods,journal,4,8
-王晶,Food Bioscience,journal,4,18
-王晶,Journal of Agricultural and Food Chemistry,journal,2,5
-王晶,Scientific Reports,journal,2,0
-王晶,Research Square,repository,2,0
-王晶,Journal of the Science of Food and Agriculture,journal,2,1
-王晶,European journal of medical research,journal,2,1
-王晶,Journal of Food Science,journal,2,2
-王晶,BMC Nursing,journal,1,0
-王晶,IEEE Sensors Journal,journal,1,0
-王晶,ACS Applied Materials & Interfaces,journal,1,1
-王晶,Food Science and Human Wellness,journal,1,0
-王晶,Cost Effectiveness and Resource Allocation,journal,1,0
-王晶,International Journal of Gastronomy and Food Science,journal,1,0
-王晶,Trends in Food Science & Technology,journal,1,0
-王晶,Alzheimer s & Dementia,journal,1,0
-王晶,Journal of Cereal Science,journal,1,0
-王晶,Frontiers in Medicine,journal,1,3
-王晶,Scientific journal of intelligent systems research.,journal,1,0
-王晶,Food Hydrocolloids,journal,1,2
-王晶,Journal of Cachexia Sarcopenia and Muscle,journal,1,3
-王晶,Food Science & Nutrition,journal,1,2
-王晶,Drug Delivery,journal,1,1
-王晶,Neurobiology of Disease,journal,1,2
-王晶,Molecular Nutrition & Food Research,journal,1,0
-王晶,Renewable Energy,journal,1,8
-王晶,Zeitschrift für Kristallographie - New Crystal Structures,journal,1,0
-王晶,Applied Biochemistry and Microbiology,journal,1,1
-王晶,BMC Plant Biology,journal,1,3
-王晶,Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy,journal,1,3
-王晶,Nanomaterials,journal,1,3
-王晶,Journal of Membrane Science,journal,1,2
-王晶,Annals of Oncology,journal,1,2
-王晶,Food Frontiers,journal,1,0
-王晶,MedComm,journal,1,0
-王晶,Letters in Applied Microbiology,journal,1,0
-王晶,Fungal Diversity,journal,1,11
-王晶,Photonics,journal,1,1
-王晶,Food Chemistry X,journal,1,8
-王晶,The Microbe,journal,1,0
-王晶,Cancer Research,journal,1,1
-王晶,Molecular Neurobiology,journal,1,1
-王晶,International Journal of Molecular Sciences,journal,1,7
-王晶,LWT,journal,1,4
-王晶,Natural Product Research,journal,1,1
-王晶,International Immunopharmacology,journal,1,10
-王晶,Journal of Orthopaedic Surgery and Research,journal,1,5
-王晶,Separation and Purification Technology,journal,1,1
-王晶,International Journal of Global Economics and Management,journal,1,0
-王晶,Food and Agricultural Immunology,journal,1,4
-王晶,International Journal of Medical Sciences,journal,1,3
-王晶,Food Research International,journal,1,3
-王晶,Diabetology & Metabolic Syndrome,journal,1,6
-王晶,Nature Microbiology,journal,1,13
-王晶,Journal of Medical Systems,journal,1,7
-王晶,Plants,journal,1,2
-王晶,Nutrients,journal,1,1
-王晶,Food & Function,journal,1,3
-王晶,RSC Advances,journal,1,2
-王晶,Dermatologic Therapy,journal,1,0
-王晶,Journal of Materials Chemistry A,journal,1,3
-王晶,Elsevier eBooks,ebook platform,1,2
-王晶,Journal of Affective Disorders,journal,1,2
-王晶,Proceedings of the National Academy of Sciences,journal,1,9
-王晶,Journal of Applied Biomedicine,journal,1,0
-王晶,Journal of Ecohumanism,journal,1,1
-王晶,Carbohydrate Polymers,journal,1,17
 王玫,arXiv (Cornell University),repository,16,101
 王玫,Pattern Recognition,journal,6,67
+王玫,Lecture notes in computer science,book series,5,12
 王玫,Neurocomputing,journal,5,3186
-王玫,Lecture notes in computer science,book series,4,10
+王玫,Communications in computer and information science,book series,3,2
 王玫,Figshare,repository,3,0
-王玫,Communications in computer and information science,book series,2,0
 王玫,IEEE Transactions on Circuits and Systems for Video Technology,journal,2,119
 王玫,Journal of Physics Conference Series,journal,2,23
 王玫,IOP Conference Series Materials Science and Engineering,conference,2,6
@@ -1545,14 +1684,46 @@
 王玫,China Journal of Chinese Materia Medica,journal,1,1
 王玫,Hokengakuzasshi (JOURNAL of INSURANCE SCIENCE),journal,1,1
 王玫,Information Sciences,journal,1,11
-王立志,arXiv (Cornell University),repository,15,2
-王立志,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,8,66
+王玫,Jisuanji Gongcheng yu Yingyong,journal,1,0
+王玫,Jisuanji yingyong yanjiu,journal,1,2
+王玫,China Printing and Packaging Study,journal,1,0
+王玫,Journal of Wuhan University,journal,1,0
+王玫,PubMed,repository,1,1
+王玫,Jisuanji kexue yu tansuo,journal,1,0
+王玫,Microcomputer & its Applications,journal,1,0
+王玫,Journal of Software,journal,1,0
+王玫,jOURNAL OF southwest University for Nationalities,journal,1,0
+王玫,"Proceedings of the ... IEEE International Conference on Acoustics, Speech, and Signal Processing",conference,1,0
+王玫,Journal of Mathematical Research and Exposition,journal,1,0
+王玫,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,0
+王玫,Journal of Daqing Petroleum Institute,journal,1,0
+王玫,Journal of Yueyang Higher Vocational and Technical College,journal,1,0
+王玫,Technical report of IEICE. PRMU,journal,1,4
+王立志,arXiv (Cornell University),repository,17,4
+王立志,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,11,415
+王立志,Lecture notes in computer science,book series,8,49
 王立志,SSRN Electronic Journal,repository,7,1
-王立志,Lecture notes in computer science,book series,5,19
-王立志,International Journal of Computer Vision,journal,3,4
+王立志,International Journal of Computer Vision,journal,4,21
 王立志,ArXiv.org,repository,3,0
 王立志,IEEE Transactions on Computational Imaging,journal,3,30
+王立志,Neurocomputing,journal,3,35
+王立志,Optics Express,journal,3,53
+王立志,Heilongjiang nongye kexue,journal,3,0
 王立志,Laser & Photonics Review,journal,2,9
+王立志,IEEE Transactions on Circuits and Systems for Video Technology,journal,2,46
+王立志,Environmental and Experimental Botany,journal,2,91
+王立志,Cognitive Systems Research,journal,2,4
+王立志,Lecture notes in electrical engineering,book series,2,1
+王立志,Journal of Agronomy and Crop Science,journal,2,42
+王立志,International Petroleum Technology Conference,conference,2,13
+王立志,IEEE Transactions on Image Processing,journal,2,309
+王立志,Reliability Engineering & System Safety,journal,2,163
+王立志,Advances in Mechanical Engineering,journal,2,18
+王立志,Figshare,repository,2,0
+王立志,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,2,0
+王立志,Anhui nongye kexue,journal,2,0
+王立志,Ecological Economy,journal,2,0
+王立志,Contemporary Economy & Management,journal,2,0
 王立志,Aquatic Ecology,journal,1,0
 王立志,Nano Letters,journal,1,0
 王立志,Ocean Engineering,journal,1,1
@@ -1563,50 +1734,126 @@
 王立志,Developmental & Comparative Immunology,journal,1,0
 王立志,Computer Methods and Programs in Biomedicine,journal,1,0
 王立志,Materials Today Communications,journal,1,3
-王立志,IEEE Transactions on Circuits and Systems for Video Technology,journal,1,0
 王立志,Systems Engineering,journal,1,1
 王立志,Photonics Research,journal,1,25
 王立志,International Communications in Heat and Mass Transfer,journal,1,2
-王立志,Environmental and Experimental Botany,journal,1,10
 王立志,Agronomy,journal,1,1
-王立志,Neurocomputing,journal,1,4
 王立志,IEEE Transactions on Neural Networks and Learning Systems,journal,1,73
 王立志,IEEE Transactions on Geoscience and Remote Sensing,journal,1,13
 王立志,Soil and Tillage Research,journal,1,6
-王立志,Cognitive Systems Research,journal,1,0
 王立志,Proceedings of the 30th ACM International Conference on Multimedia,conference,1,32
-王立志,Lecture notes in electrical engineering,book series,1,1
 王立志,Pattern Recognition,journal,1,15
 王立志,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),conference,1,39
 王立志,Construction and Building Materials,journal,1,86
 王立志,Journal of Plant Interactions,journal,1,5
+王立志,Scientific Reports,journal,1,177
+王立志,Applied Intelligence,journal,1,20
+王立志,Journal of Intelligent Transportation Systems,journal,1,4
+王立志,International Journal of Quantum Chemistry,journal,1,0
+王立志,IEEE Transactions on Multimedia,journal,1,13
+王立志,Quality and Reliability Engineering International,journal,1,11
+王立志,Proceedings of the 8th Unconventional Resources Technology Conference,conference,1,13
+王立志,Computing and Informatics,journal,1,12
+王立志,Journal of Materials in Civil Engineering,journal,1,43
+王立志,Data in Brief,journal,1,1
+王立志,The 29th International Ocean and Polar Engineering Conference,conference,1,0
+王立志,Journal of Manufacturing Systems,journal,1,29
+王立志,Proceedings of the 29th European Safety and Reliability Conference (ESREL),conference,1,0
+王立志,Proceedings of the SPE/AAPG/SEG Asia Pacific Unconventional Resources Technology Conference,conference,1,13
+王立志,"International Geophysical Conference, Beijing, China, 24-27 April 2018",conference,1,1
+王立志,Sensors,journal,1,28
+王立志,Entropy,journal,1,4
+王立志,SPE Drilling & Completion,journal,1,32
+王立志,Tobacco Science & Technology,journal,1,2
+王立志,2018 1st IEEE International Conference on Knowledge Innovation and Invention (ICKII),conference,1,0
+王立志,IOP Conference Series Materials Science and Engineering,conference,1,1
+王立志,Zhongguo yancao xuebao,journal,1,0
+王立志,HAL (Le Centre pour la Communication Scientifique Directe),repository,1,0
+王立志,Journal of Experimental Botany,journal,1,68
+王立志,Revista Brasileira de Botânica,journal,1,19
+王立志,Iowa State University Digital Repository (Iowa State University),repository,1,0
+王立志,Zhongguo nongye Kexue,journal,1,3
+王立志,IEEE Conference Proceedings,conference,1,0
+王立志,Abu Dhabi International Petroleum Exhibition and Conference,conference,1,12
+王立志,Rice,journal,1,230
+王立志,Spectrochimica Acta Part A Molecular and Biomolecular Spectroscopy,journal,1,10
+王立志,Applied Optics,journal,1,206
+王立志,Solar Energy Materials and Solar Cells,journal,1,17
+王立志,Journal of the Physical Society of Japan,journal,1,7
+王立志,Engineering Failure Analysis,journal,1,9
+王立志,Beijing Hangkong Hangtian Daxue xuebao,journal,1,3
+王立志,Equipment Environmental Engineering,journal,1,0
+王立志,Yiqi Yibiao Xuebao,journal,1,0
+王立志,The Journal of China Universities of Posts and Telecommunications,journal,1,1
+王立志,Drilling & Production Technology,journal,1,1
+王立志,"2011 IEEE MTT-S International Microwave Workshop Series on Innovative Wireless Power Transmission: Technologies, Systems, and Applications",conference,1,0
+王立志,Chemical Physics,journal,1,2
+王立志,Agriculture Network Information,journal,1,0
+王立志,Journal of Petrochemical Universities,journal,1,0
+王立志,International Journal of Sustainable Manufacturing,journal,1,1
+王立志,Journal of Xinzhou Teachers University,journal,1,0
+王立志,Chinese Optics Letters,journal,1,1
+王立志,Journal of Yantai University,journal,1,0
+王立志,Modern Electronics Technique,journal,1,0
+王立志,Journal of Hefei University of Technology,journal,1,0
+王立志,Journal of Dezhou University,journal,1,0
+王立志,Laboratory Science,journal,1,0
+王立志,Petroleum Engineering Construction,journal,1,0
+王立志,Hebei Journal of Forestry and Orchard Research,journal,1,0
+王立志,The Journal of the Library Science in Jiangxi,journal,1,0
+王立志,Standard Science,journal,1,1
+王立志,Transactions of the China Welding Institution,journal,1,0
+王立志,Information technology newsletter,journal,1,0
+王立志,Journal of Taiyuan University of Science and Technology,journal,1,0
+王立志,Shengtai kexue,journal,1,0
+王立志,Future and Development,journal,1,0
+王立志,Gongneng cailiao yu qijian xuebao,journal,1,0
+王立志,Seed,journal,1,0
+王立志,European Journal of Operational Research,journal,1,42
+王立志,Journal of Wuhan University of Science and Engineering,journal,1,0
+王立志,Journal of Yunnan Normal University,journal,1,0
+王立志,Beijing Gongye Daxue xuebao,journal,1,0
+王立志,Shanxi nongye kexue,journal,1,0
+王立志,Heilongjiang Agricultural Science,journal,1,0
+王立志,Microelectronics,journal,1,0
+王立志,Journal of Yanshan University,journal,1,0
+王立志,Optical Engineering,journal,1,4
+王立志,Journal of the Optical Society of America A,journal,1,62
+王立志,Color and Imaging Conference,journal,1,0
+王立志,International Conference on Computer Vision,conference,1,3
+王立志,Multidimensional Systems and Signal Processing,journal,1,2
 王胜灵,arXiv (Cornell University),repository,16,40
+王胜灵,Lecture notes in computer science,book series,13,61
 王胜灵,IEEE Transactions on Mobile Computing,journal,7,90
-王胜灵,Lecture notes in computer science,book series,7,27
 王胜灵,IEEE Internet of Things Journal,journal,7,395
 王胜灵,IEEE Transactions on Dependable and Secure Computing,journal,4,37
+王胜灵,IEEE Transactions on Parallel and Distributed Systems,journal,4,177
+王胜灵,IEEE Transactions on Vehicular Technology,journal,4,62
 王胜灵,IEEE Transactions on Computers,journal,3,100
 王胜灵,IEEE Transactions on Information Forensics and Security,journal,3,35
 王胜灵,Sensors,journal,3,42
+王胜灵,IEEE Network,journal,3,82
 王胜灵,IEEE Transactions on Services Computing,journal,2,7
 王胜灵,High-Confidence Computing,journal,2,4
+王胜灵,IEEE/ACM Transactions on Networking,journal,2,104
 王胜灵,Computer Networks,journal,2,7
-王胜灵,IEEE Transactions on Parallel and Distributed Systems,journal,2,135
-王胜灵,IEEE Transactions on Vehicular Technology,journal,2,34
+王胜灵,Chin J Endemiol,journal,2,1
 王胜灵,IEEE Access,journal,2,37
 王胜灵,International Journal of Sensor Networks,journal,2,17
 王胜灵,Procedia Computer Science,journal,2,6
+王胜灵,IEEE Wireless Communications,journal,2,68
+王胜灵,EURASIP Journal on Wireless Communications and Networking,journal,2,14
+王胜灵,Journal of Software,journal,2,4
+王胜灵,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",journal,2,4
 王胜灵,medRxiv,repository,1,0
 王胜灵,Journal of Inflammation Research,journal,1,0
 王胜灵,IEEE Transactions on Consumer Electronics,journal,1,0
 王胜灵,IEEE Transactions on Network and Service Management,journal,1,8
 王胜灵,Advances in intelligent systems and computing,book series,1,3
 王胜灵,Pharmacogenomics and Personalized Medicine,journal,1,0
-王胜灵,IEEE/ACM Transactions on Networking,journal,1,10
 王胜灵,Computer Communications,journal,1,34
 王胜灵,IEEE Transactions on Network Science and Engineering,journal,1,8
 王胜灵,IEEE Transactions on Cognitive Communications and Networking,journal,1,4
-王胜灵,Chin J Endemiol,journal,1,0
 王胜灵,IEEE Transactions on Knowledge and Data Engineering,journal,1,48
 王胜灵,Author eBooks,ebook platform,1,0
 王胜灵,Security and Communication Networks,journal,1,4
@@ -1614,26 +1861,41 @@
 王胜灵,IEEE Communications Magazine,journal,1,50
 王胜灵,IEEE Transactions on Big Data,journal,1,111
 王胜灵,IIKI,journal,1,0
+王胜灵,Journal of Food Chemistry and Nutrition,journal,1,12
+王胜灵,Zhonghua Difangbingxue Zazhi,journal,1,0
+王胜灵,Personal and Ubiquitous Computing,journal,1,1
+王胜灵,ACM SIGMOBILE Mobile Computing and Communications Review,journal,1,12
+王胜灵,IEEE Journal on Selected Areas in Communications,journal,1,62
+王胜灵,Wireless Networks,journal,1,18
+王胜灵,Journal of Parallel and Distributed Computing,journal,1,2
+王胜灵,Wireless Communications and Mobile Computing,journal,1,1
+王胜灵,Chinese Journal of Computers,journal,1,2
+王胜灵,Journal of Computer Science and Technology,journal,1,4
+王胜灵,Huazhong Nongye Daxue xuebao,journal,1,0
+王胜灵,Microelectronics & Computer,journal,1,1
+王醒策,Lecture notes in computer science,book series,10,46
+王醒策,Multimedia Tools and Applications,journal,8,19
 王醒策,Computer Animation and Virtual Worlds,journal,7,12
-王醒策,Lecture notes in computer science,book series,7,26
-王醒策,Multimedia Tools and Applications,journal,6,10
+王醒策,Figshare,repository,5,0
+王醒策,Neurocomputing,journal,4,94
 王醒策,Frontiers in artificial intelligence and applications,journal,3,0
 王醒策,Computer Aided Geometric Design,journal,3,12
 王醒策,Applied Thermal Engineering,journal,3,37
 王醒策,Energy Science & Engineering,journal,3,4
 王醒策,The Visual Computer,journal,3,15
 王醒策,SSRN Electronic Journal,repository,3,1
+王醒策,Pattern Recognition Letters,journal,3,15
+王醒策,Computers & Graphics,journal,3,33
 王醒策,ArXiv.org,repository,2,0
 王醒策,Proceedings of the ACM on Computer Graphics and Interactive Techniques,journal,2,1
-王醒策,Neurocomputing,journal,2,20
 王醒策,International Journal of Heat and Mass Transfer,journal,2,54
 王醒策,Computer Graphics Forum,journal,2,2
 王醒策,arXiv (Cornell University),repository,2,0
 王醒策,Pattern Recognition,journal,2,24
 王醒策,Energy Conversion and Management,journal,2,24
-王醒策,Pattern Recognition Letters,journal,2,7
 王醒策,IEEE Computer Graphics and Applications,journal,2,8
 王醒策,International Workshop on Advanced Image Technology (IWAIT) 2019,journal,2,1
+王醒策,Zenodo (CERN European Organization for Nuclear Research),repository,2,0
 王醒策,IEEE Transactions on Visualization and Computer Graphics,journal,1,0
 王醒策,ACM Transactions on Graphics,journal,1,3
 王醒策,Carbon Neutrality,journal,1,8
@@ -1647,203 +1909,122 @@
 王醒策,Energy,journal,1,25
 王醒策,Cluster Computing,journal,1,3
 王醒策,Medical Image Analysis,journal,1,6
-王醒策,Computers & Graphics,journal,1,7
 王醒策,Virtual Reality,journal,1,1
 王醒策,ACM Transactions on Multimedia Computing Communications and Applications,journal,1,13
 王醒策,IEEE Transactions on NanoBioscience,journal,1,11
 王醒策,Jisuanji fangzhen,journal,1,0
 王醒策,"White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",repository,1,0
-田沄,SSRN Electronic Journal,repository,8,1
-田沄,Aging Cell,journal,3,36
-田沄,arXiv (Cornell University),repository,2,1
-田沄,Food & Function,journal,2,1
-田沄,bioRxiv (Cold Spring Harbor Laboratory),repository,2,1
-田沄,PubMed,repository,2,0
-田沄,Physica A Statistical Mechanics and its Applications,journal,2,11
-田沄,The Journal of Infectious Diseases,journal,2,14
-田沄,The Journal of Clinical Endocrinology & Metabolism,journal,2,7
-田沄,Nature Cardiovascular Research,journal,2,90
-田沄,Atherosclerosis,journal,2,18
-田沄,Nature Communications,journal,2,107
-田沄,International Journal of Mobile Communications,journal,2,1
-田沄,Obesity,journal,2,5
-田沄,ArXiv.org,repository,1,0
-田沄,Growth and Change,journal,1,0
-田沄,Brazilian Journal of Chemical Engineering,journal,1,0
-田沄,BMC Nephrology,journal,1,0
-田沄,Molecular Biomedicine,journal,1,0
-田沄,Psychiatry Research,journal,1,2
-田沄,eNeuro,journal,1,0
-田沄,BMC Infectious Diseases,journal,1,2
-田沄,Neural Regeneration Research,journal,1,1
-田沄,Cell & Bioscience,journal,1,1
-田沄,Artificial Intelligence Review,journal,1,10
-田沄,Trends in Endocrinology and Metabolism,journal,1,10
-田沄,World Journal of Acupuncture - Moxibustion,journal,1,0
-田沄,Journal of Affective Disorders,journal,1,1
-田沄,Journal of the American Chemical Society,journal,1,118
-田沄,Annals of Neurology,journal,1,7
-田沄,Rejuvenation Research,journal,1,1
-田沄,Cell Research,journal,1,3
-田沄,Depression and Anxiety,journal,1,0
-田沄,Lecture notes in electrical engineering,book series,1,0
-田沄,Global Health Action,journal,1,2
-田沄,Sustainability,journal,1,3
-田沄,Acta Mechanica,journal,1,1
-田沄,The Lancet,journal,1,36
-田沄,Metabolites,journal,1,2
-田沄,International Journal of Public Health and Medical Research,journal,1,0
-田沄,Journal of Global Health,journal,1,2
-田沄,Rare Metals,journal,1,9
-田沄,Frontiers in Nutrition,journal,1,12
-田沄,Journal of the American College of Cardiology,journal,1,37
-田沄,npj Cardiovascular Health,journal,1,0
-田沄,Hepatology,journal,1,20
-田沄,Research Square,repository,1,0
-田沄,BMC Medicine,journal,1,10
-田沄,European Journal of Preventive Cardiology,journal,1,20
-田沄,BMC Cancer,journal,1,7
-田沄,Scientific Reports,journal,1,1
-田沄,Bulletin of Mineralogy Petrology and Geochemistry,journal,1,0
-田沄,Human Vaccines & Immunotherapeutics,journal,1,4
-田沄,Diabetes/Metabolism Research and Reviews,journal,1,2
-田沄,Journal of Clinical Hypertension,journal,1,3
-田沄,Public Health,journal,1,12
-田沄,Frontiers in Immunology,journal,1,3
-田沄,Journal of Evidence-Based Medicine,journal,1,0
-田沄,Land,journal,1,6
-田沄,Liver International,journal,1,4
-田沄,UNC Libraries,repository,1,0
-田沄,Diabetes Research and Clinical Practice,journal,1,1
-田沄,Preventive Medicine,journal,1,7
-田沄,Applied Mathematics and Nonlinear Sciences,journal,1,2
-田沄,International Journal of Antimicrobial Agents,journal,1,6
-田沄,Biomedicines,journal,1,5
-田沄,Environmental Health,journal,1,10
-田沄,The Journals of Gerontology Series A,journal,1,13
-田沄,International Journal of Environmental Health Research,journal,1,1
-田沄,International Journal of Behavioral Nutrition and Physical Activity,journal,1,16
-田沄,Journal of Infection,journal,1,3
-田沄,Journal of Public Health,journal,1,0
-田沄,Psychiatry and Clinical Neurosciences,journal,1,1
-田沄,CNS Spectrums,journal,1,1
-田沄,Geoenergy Science and Engineering,journal,1,1
-白璐,arXiv (Cornell University),repository,6,15
-白璐,SSRN Electronic Journal,repository,3,0
-白璐,Remote Sensing,journal,3,14
-白璐,"The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",journal,3,3
-白璐,JMIR mhealth and uhealth,journal,2,10
-白璐,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,28
-白璐,Journal of Medical Internet Research,journal,2,5
-白璐,Sensors,journal,2,11
-白璐,Cancer Research,journal,2,4
-白璐,PubMed,repository,2,4
-白璐,"International journal of law, crime and justice",journal,1,0
-白璐,Mechanism and Machine Theory,journal,1,0
-白璐,Journal of Clinical Oncology,journal,1,4
+王醒策,Computers in Biology and Medicine,journal,1,32
+王醒策,Journal of Computational and Applied Mathematics,journal,1,9
+王醒策,BMC Medical Imaging,journal,1,10
+王醒策,International Journal of Computer Assisted Radiology and Surgery,journal,1,53
+王醒策,Journal of Computer Science and Technology,journal,1,10
+王醒策,Mathematical Problems in Engineering,journal,1,22
+王醒策,IEEE Conference Proceedings,conference,1,0
+王醒策,Forensic Science International,journal,1,28
+王醒策,Computer-Aided Design and Applications,journal,1,3
+王醒策,Graphical Models,journal,1,6
+王醒策,Journal of Software,journal,1,0
+王醒策,Journal of Image and Graphics,journal,1,0
+王醒策,IEICE Transactions on Information and Systems,journal,1,5
+王醒策,JMIR mhealth and uhealth,journal,1,8
+王醒策,Journal of Networks,journal,1,2
+王醒策,Lecture notes in electrical engineering,book series,1,3
+王醒策,2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery,conference,1,19
+王醒策,Journal of Electronics (China),journal,1,0
+王醒策,International Journal of Virtual Reality,journal,1,7
+王醒策,Harbin Gongcheng Daxue Xuebao/Journal of Harbin Engineering University,journal,1,1
+王醒策,Jisuanji gongcheng,journal,1,2
+田沄,SSRN Electronic Journal,repository,3,0
+田沄,Journal of Alloys and Compounds,journal,1,4
+田沄,Frontiers in Medicine,journal,1,0
+田沄,Advanced Materials,journal,1,9
+田沄,IEEE Transactions on Wireless Communications,journal,1,8
+田沄,Intermetallics,journal,1,2
+田沄,Heliyon,journal,1,1
+田沄,International Journal of Minerals Metallurgy and Materials,journal,1,14
+田沄,Forests,journal,1,1
+田沄,Angewandte Chemie,journal,1,16
+田沄,Angewandte Chemie International Edition,journal,1,98
+田沄,Advances in computer and materials science research.,journal,1,0
+田沄,ACS Energy Letters,journal,1,11
+田沄,Lecture notes in computer science,book series,1,2
+田沄,Frontiers in Bioengineering and Biotechnology,journal,1,15
+田沄,Frontiers in Chemistry,journal,1,162
+田沄,Applied Physics Letters,journal,1,17
+白璐,Lecture notes in computer science,book series,36,198
+白璐,Pattern Recognition,journal,20,840
+白璐,arXiv (Cornell University),repository,13,8
+白璐,"White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",repository,5,39
+白璐,IEEE Transactions on Knowledge and Data Engineering,journal,4,156
+白璐,Multimedia Tools and Applications,journal,4,35
+白璐,IEEE Transactions on Neural Networks and Learning Systems,journal,3,96
+白璐,Pattern Recognition Letters,journal,3,72
+白璐,IEEE Transactions on Cybernetics,journal,2,27
+白璐,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,2,84
+白璐,IEEE Transactions on Intelligent Transportation Systems,journal,2,32
+白璐,Frontiers in Psychology,journal,2,29
+白璐,Journal of Child and Family Studies,journal,2,34
+白璐,Neurocomputing,journal,2,39
+白璐,Frontiers in Computational Neuroscience,journal,2,16
+白璐,Open MIND,repository,1,0
+白璐,Proceedings of the National Academy of Sciences,journal,1,1
+白璐,Zenodo (CERN European Organization for Nuclear Research),repository,1,0
 白璐,ArXiv.org,repository,1,0
-白璐,Radiation Physics and Chemistry,journal,1,0
-白璐,International Journal of Integrated Care,journal,1,0
-白璐,Lishizhen medicine and materia medica research,journal,1,0
-白璐,BMC Medical Informatics and Decision Making,journal,1,1
-白璐,Franklin Open,journal,1,1
-白璐,Advances in Machine Learning & Artificial Intelligence,journal,1,0
-白璐,Medical Image Analysis,journal,1,18
-白璐,IEEE Access,journal,1,1
-白璐,Journal of Materials Chemistry A,journal,1,3
-白璐,"Advances in economics, business and management research/Advances in Economics, Business and Management Research",book series,1,0
-白璐,International Journal of Digital Earth,journal,1,1
-白璐,Food Chemistry X,journal,1,4
-白璐,Frontiers in Sports and Active Living,journal,1,0
-白璐,Behavioral Sciences,journal,1,0
-白璐,Foods,journal,1,6
-白璐,Phytochemistry Letters,journal,1,4
-白璐,BMC Medical Research Methodology,journal,1,2
-白璐,Results in Physics,journal,1,4
-白璐,Electronics,journal,1,1
-白璐,Journal of Pharmaceutical and Biomedical Analysis,journal,1,6
-白璐,PLoS ONE,journal,1,16
-白璐,Research Square,repository,1,0
-白璐,Information Fusion,journal,1,67
-白璐,Progress In Electromagnetics Research M,journal,1,0
-白璐,Lecture notes in business information processing,book series,1,0
-白璐,IEEE Transactions on Geoscience and Remote Sensing,journal,1,3
-白璐,"World Congress on Medical Physics and Biomedical Engineering, September 7 - 12, 2009, Munich, Germany",book series,1,0
-白璐,Lecture notes in computer science,book series,1,0
-白璐,Food Chemistry,journal,1,13
-白璐,Journal of Cloud Computing Advances Systems and Applications,journal,1,34
-白璐,International Journal of Remote Sensing,journal,1,20
-白璐,Biomedical Signal Processing and Control,journal,1,6
-白璐,bioRxiv (Cold Spring Harbor Laboratory),repository,1,0
-白璐,Computers & Industrial Engineering,journal,1,30
-白璐,CCF Transactions on High Performance Computing,journal,1,3
-白璐,Ultrasonics Sonochemistry,journal,1,14
-白璐,International Journal of Advanced Robotic Systems,journal,1,6
-白璐,Journal of Russian Laser Research,journal,1,6
-白璐,Radiation Detection Technology and Methods,journal,1,3
-白璐,Results in Optics,journal,1,5
-白璐,Computer Applications in Engineering Education,journal,1,6
-白璐,Water,journal,1,13
-石红薇,The Journal of Chemical Thermodynamics,journal,7,84
-石红薇,Journal of Chemical & Engineering Data,journal,4,21
-石红薇,Journal of Molecular Liquids,journal,3,22
-石红薇,ACS Chemical Neuroscience,journal,2,4
-石红薇,Brain Research,journal,2,7
-石红薇,RSC Advances,journal,2,71
-石红薇,Applied Surface Science,journal,2,145
-石红薇,Free Radical Biology and Medicine,journal,1,0
-石红薇,Journal of Anesthesia and Translational Medicine,journal,1,1
-石红薇,Applied Thermal Engineering,journal,1,17
-石红薇,Statistical Papers,journal,1,1
-石红薇,Surfaces and Interfaces,journal,1,3
-石红薇,Annals of the Institute of Statistical Mathematics,journal,1,2
-石红薇,Physical review. B./Physical review. B,journal,1,4
-石红薇,Communications in Mathematics and Statistics,journal,1,0
-石红薇,Statistics and Computing,journal,1,6
+白璐,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1,0
+白璐,IEEE Transactions on Automation Science and Engineering,journal,1,4
+白璐,Knowledge-Based Systems,journal,1,10
+白璐,International Journal of Machine Learning and Cybernetics,journal,1,12
+白璐,Journal of Electrical Systems,journal,1,0
+白璐,IEEE Transactions on Geoscience and Remote Sensing,journal,1,79
+白璐,BMC Psychology,journal,1,11
+白璐,Engineering Applications of Artificial Intelligence,journal,1,14
+白璐,IEEE Transactions on Instrumentation and Measurement,journal,1,23
+白璐,2022 26th International Conference on Pattern Recognition (ICPR),conference,1,2
+白璐,Journal of the Operational Research Society,journal,1,13
+白璐,2022 IEEE 38th International Conference on Data Engineering (ICDE),conference,1,3
+白璐,SSRN Electronic Journal,repository,1,1
+白璐,"2021 13th International Symposium on Antennas, Propagation and EM Theory (ISAPE)",conference,1,0
+白璐,Information Fusion,journal,1,27
+白璐,World Wide Web,journal,1,4
+白璐,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,1,78
+白璐,International Conference on Artificial Intelligence,conference,1,12
+白璐,"White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",repository,1,9
+白璐,Journal of Cleaner Production,journal,1,80
+白璐,Conservation and Management of Archaeological Sites,journal,1,0
+白璐,Journal of Mathematical Imaging and Vision,journal,1,86
+石红薇,arXiv (Cornell University),repository,4,3
+石红薇,IEEE Transactions on Dependable and Secure Computing,journal,3,26
+石红薇,IEEE Transactions on Information Forensics and Security,journal,2,2
+石红薇,IEEE Transactions on Mobile Computing,journal,2,0
+石红薇,Wind Engineering,journal,2,16
+石红薇,IEEE Internet of Things Journal,journal,2,60
+石红薇,International Journal of Internet Protocol Technology,journal,2,2
+石红薇,Procedia Engineering,journal,2,10
+石红薇,Quaternary Science Reviews,journal,1,1
+石红薇,Journal of Cardiothoracic Surgery,journal,1,0
+石红薇,Journal of Archaeological Method and Theory,journal,1,1
+石红薇,Energy Sources Part A Recovery Utilization and Environmental Effects,journal,1,2
+石红薇,IEEE Transactions on Services Computing,journal,1,1
+石红薇,High-Confidence Computing,journal,1,3
+石红薇,Frontiers in Plant Science,journal,1,13
 石红薇,Research Square,repository,1,0
-石红薇,Microchemical Journal,journal,1,21
-石红薇,Catalysts,journal,1,2
-石红薇,ACS Omega,journal,1,2
-石红薇,Computational Intelligence and Neuroscience,journal,1,6
-石红薇,Journal of Alloys and Compounds,journal,1,30
-石红薇,Hydrology research,journal,1,15
-石红薇,Ionics,journal,1,17
-石红薇,Journal of Applied Polymer Science,journal,1,10
-石红薇,Data Archiving and Networked Services (DANS),repository,1,0
-石红薇,International Journal of Electrochemical Science,journal,1,3
-石红薇,Polymer,journal,1,9
-石红薇,Aquaculture Research,journal,1,25
-石红薇,Journal of Polymer Research,journal,1,16
-石红薇,Journal of Membrane Science,journal,1,58
-石红薇,Nanoscience and Nanotechnology Letters,journal,1,1
-石红薇,Petrochemical Industry Technology,journal,1,0
-石红薇,ARKIVOC,journal,1,1
-石红薇,Open Journal of Nursing,journal,1,2
-石红薇,Jiangsu Xingzheng Xueyuan xuebao,journal,1,0
-石红薇,Guangdong Electric Power,journal,1,1
-石红薇,Electroanalysis,journal,1,32
-石红薇,Acta Physica Sinica,journal,1,0
-石红薇,Journal of Semiconductors,journal,1,1
-石红薇,中国航空学报(英文版),journal,1,2
-石红薇,MATERIALS TRANSACTIONS,journal,1,9
-石红薇,Seismological Research of Northeast China,journal,1,0
-肖明忠,SSRN Electronic Journal,repository,2,0
-肖明忠,Gastroenterology and Hepatology Research,journal,2,0
-肖明忠,2007 IFIP International Conference on Network and Parallel Computing Workshops (NPC 2007),conference,2,6
-肖明忠,Entropy,journal,1,4
-肖明忠,The Science of The Total Environment,journal,1,3
-肖明忠,Frontiers in Nutrition,journal,1,10
-肖明忠,Journal of Traditional and Complementary Medicine,journal,1,3
-肖明忠,Research Square,repository,1,0
-肖明忠,Physics,journal,1,2
-肖明忠,Frontiers in Immunology,journal,1,12
-肖明忠,Frontiers in Cellular and Infection Microbiology,journal,1,21
-肖明忠,"2021 2nd International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT)",conference,1,4
-肖明忠,Procedia Computer Science,journal,1,32
-肖明忠,2019 IEEE 2nd International Conference on Electronics Technology (ICET),conference,1,14
-肖明忠,Personal and Ubiquitous Computing,journal,1,7
-肖明忠,International Journal of Parallel Programming,journal,1,12
-肖明忠,Lecture notes in computer science,book series,1,1
+石红薇,Computer Networks,journal,1,4
+石红薇,Frontiers in Earth Science,journal,1,18
+石红薇,Chinese Hydraulics & Pneumatics,journal,1,0
+石红薇,Electronics world,journal,1,0
+石红薇,Diangong Jishu Xuebao,journal,1,0
+石红薇,Journal of Henan University of Science & Technology,journal,1,0
+石红薇,Journal of Computer Applications,journal,1,0
+石红薇,Science Technology and Engineering,journal,1,0
+石红薇,Journal of Hebei Normal University of Science & Technology,journal,1,0
+石红薇,Journal of Changzhou Vocational College of Information Technology,journal,1,0
+石红薇,Journal of Wuxi Vocational Institute of Commercial Technology,journal,1,0
+石红薇,Journal of Xi'an Petrdleum Institute,journal,1,0
+石红薇,Shandong Chemical Lndustry,journal,1,0
+石红薇,Gas & Heat,journal,1,0
+石红薇,Telecommunication Engineering,journal,1,0
+石红薇,Journal of Luoyang Teachers College,journal,1,0
 肖融,IEEE Geoscience and Remote Sensing Letters,journal,2,28
 肖融,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,1,6
 肖融,IEEE Transactions on Geoscience and Remote Sensing,journal,1,25
@@ -1875,6 +2056,7 @@
 计卫星,The International Journal of High Performance Computing Applications,journal,2,21
 计卫星,Chinese Journal of Electronics,journal,2,1
 计卫星,The Journal of Supercomputing,journal,2,3
+计卫星,Transactions of Beijing Institute of Technology,journal,2,0
 计卫星,Automated Software Engineering,journal,1,0
 计卫星,Journal of Computer Science and Technology,journal,1,0
 计卫星,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,journal,1,0
@@ -1907,11 +2089,13 @@
 计卫星,Journal of Systems Architecture,journal,1,11
 计卫星,Chinese Science Bulletin,journal,1,10
 计卫星,Computer education,journal,1,0
-计卫星,Transactions of Beijing Institute of Technology,journal,1,0
 计卫星,"Design, Automation, and Test in Europe",conference,1,5
 计卫星,Logistics Technology,journal,1,0
-赵世凤,Research Square,repository,1,1
-赵世凤,ACM Transactions on Intelligent Systems and Technology,journal,1,12
+计卫星,ACOS'07 Proceedings of the 6th Conference on WSEAS International Conference on Applied Computer Science - Volume 6,conference,1,0
+计卫星,Journal of Jiangsu University,journal,1,0
+计卫星,Jisuanji gongcheng yu sheji,journal,1,0
+计卫星,Jisuanji fangzhen,journal,1,0
+计卫星,Food Science,journal,1,0
 赵志文,Quantum Information Processing,journal,2,42
 赵志文,Machines,journal,1,0
 赵志文,Brain Sciences,journal,1,1
@@ -1986,6 +2170,7 @@
 郑新,International Journal of Digital Earth,journal,1,42
 郑新,Microelectronics & Computer,journal,1,0
 郑新,Journal of Computer Science and Technology,journal,1,5
+郑新,The Visual Computer,journal,1,8
 郭宇,IEEE Transactions on Information Forensics and Security,journal,8,135
 郭宇,IEEE Transactions on Services Computing,journal,5,233
 郭宇,Lecture notes in computer science,book series,4,26
@@ -2014,118 +2199,70 @@
 郭宇,International Journal of Advancements in Computing Technology,journal,1,4
 郭宇,Journal of Labelled Compounds and Radiopharmaceuticals,journal,1,23
 郭宇,Hospital Administration J Chinese Pla,journal,1,0
-郭小娟,PubMed,repository,5,25
-郭小娟,Quantitative Imaging in Medicine and Surgery,journal,4,35
-郭小娟,Neuromodulation Technology at the Neural Interface,journal,4,17
-郭小娟,Heart Lung and Circulation,journal,4,75
-郭小娟,European Journal of Nuclear Medicine and Molecular Imaging,journal,4,106
-郭小娟,Research Square,repository,3,7
-郭小娟,Frontiers in Cardiovascular Medicine,journal,3,21
-郭小娟,European Neurology,journal,3,27
-郭小娟,Frontiers in Plant Science,journal,2,23
-郭小娟,SSRN Electronic Journal,repository,2,1
-郭小娟,International Journal of Cardiology,journal,2,35
-郭小娟,Thrombosis Research,journal,2,35
-郭小娟,European Radiology,journal,2,153
-郭小娟,Diagnostic and Interventional Radiology,journal,2,45
-郭小娟,Archives of Medical Science - Atherosclerotic Diseases,journal,2,14
-郭小娟,Journal of Cardiovascular Magnetic Resonance,journal,2,5
-郭小娟,Experimental and Therapeutic Medicine,journal,2,11
-郭小娟,Obesity Surgery,journal,2,10
-郭小娟,Journal of International Medical Research,journal,1,0
-郭小娟,Communications in computer and information science,book series,1,0
-郭小娟,Emergency Radiology,journal,1,0
-郭小娟,Dementia and Geriatric Cognitive Disorders,journal,1,0
-郭小娟,Frontiers in Immunology,journal,1,0
-郭小娟,Medicina Clínica (English Edition),journal,1,0
-郭小娟,The Lancet Regional Health - Western Pacific,journal,1,1
-郭小娟,Probiotics and Antimicrobial Proteins,journal,1,1
-郭小娟,Process Safety and Environmental Protection,journal,1,2
-郭小娟,Medicina Clínica,journal,1,1
-郭小娟,IEEE Transactions on Medical Imaging,journal,1,2
-郭小娟,Catalysts,journal,1,1
-郭小娟,"Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition",journal,1,0
-郭小娟,Heliyon,journal,1,0
-郭小娟,IEEE Access,journal,1,11
-郭小娟,Gastroenterology,journal,1,0
-郭小娟,Clinical and Applied Thrombosis/Hemostasis,journal,1,0
-郭小娟,Scandinavian Journal of Gastroenterology,journal,1,0
-郭小娟,Cardiovascular Ultrasound,journal,1,0
-郭小娟,BMC Pulmonary Medicine,journal,1,8
-郭小娟,Microbial Pathogenesis,journal,1,16
-郭小娟,Annals of Palliative Medicine,journal,1,7
-郭小娟,The Clinical Respiratory Journal,journal,1,7
-郭小娟,ERJ Open Research,journal,1,6
-郭小娟,Aging,journal,1,16
-郭小娟,Journal of Nuclear Cardiology,journal,1,20
-郭小娟,BioMed Research International,journal,1,15
-郭小娟,International Journal of Rheumatic Diseases,journal,1,18
-郭小娟,European Heart Journal - Cardiovascular Imaging,journal,1,17
-郭小娟,Pulmonary Circulation,journal,1,17
-郭小娟,REVISTA ARGENTINA DE CLINICA PSICOLOGICA,journal,1,0
-郭小娟,Journal of Thrombosis and Thrombolysis,journal,1,27
-郭小娟,Artificial Cells Nanomedicine and Biotechnology,journal,1,26
-郭小娟,International journal of cardiac imaging,journal,1,50
-郭小娟,RSC Advances,journal,1,5
-郭小娟,Clinical Rheumatology,journal,1,105
-郭小娟,Clinical Therapeutics,journal,1,5
-郭小娟,Applied Surface Science,journal,1,25
-郭小娟,Journal of Computer Assisted Tomography,journal,1,7
-郭小娟,Case Reports in Neurological Medicine,journal,1,10
-郭小娟,International Journal of Colorectal Disease,journal,1,11
-郭小娟,PLoS ONE,journal,1,28
-郭小娟,Chinese Medical Journal,journal,1,23
-郭小娟,Zhonghua chaosheng yingxiangxue zazhi,journal,1,0
-郭小娟,World Chinese Journal of Digestology,journal,1,0
-郭小娟,Canadian Journal of Cardiology,journal,1,29
-郭小娟,Neurological Research,journal,1,12
-郭小娟,Journal of Medicinal Chemistry,journal,1,38
-郭建伟,ACM Transactions on Graphics,journal,8,176
-郭建伟,IEEE Transactions on Visualization and Computer Graphics,journal,8,229
-郭建伟,Lecture notes in computer science,book series,5,50
-郭建伟,Research Square,repository,4,1
-郭建伟,Computers & Graphics,journal,3,71
-郭建伟,Computational Visual Media,journal,3,61
-郭建伟,Graphical Models,journal,2,41
-郭建伟,arXiv (Cornell University),repository,2,3
-郭建伟,SSRN Electronic Journal,repository,2,2
-郭建伟,Computer Graphics Forum,journal,2,28
-郭建伟,The International Journal of Advanced Manufacturing Technology,journal,2,14
-郭建伟,Journal of Computer Science and Technology,journal,2,14
-郭建伟,Computer-Aided Design,journal,2,72
-郭建伟,Eurographics,repository,2,16
-郭建伟,Journal of Electrochemistry,journal,2,2
-郭建伟,Computer Aided Geometric Design,journal,2,24
-郭建伟,Urban forestry & urban greening,journal,1,2
-郭建伟,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1,2
-郭建伟,ArXiv.org,repository,1,0
-郭建伟,IEEE Transactions on Instrumentation and Measurement,journal,1,1
-郭建伟,BMC Surgery,journal,1,5
-郭建伟,Computer Animation and Virtual Worlds,journal,1,2
-郭建伟,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,1,13
-郭建伟,Separation and Purification Technology,journal,1,49
-郭建伟,Visual Informatics,journal,1,9
-郭建伟,Intelligent Data Analysis,journal,1,3
-郭建伟,"2022 3rd International Conference on Computer Vision, Image and Deep Learning &amp; International Conference on Computer Engineering and Applications (CVIDL &amp; ICCEA)",conference,1,2
-郭建伟,Annals of Data Science,journal,1,2
-郭建伟,Frontiers in Neurology,journal,1,25
-郭建伟,IEEE Transactions on Industrial Electronics,journal,1,13
-郭建伟,Chinese Journal of Aeronautics,journal,1,22
-郭建伟,IEEE Transactions on Multimedia,journal,1,48
-郭建伟,IEEE Transactions on Geoscience and Remote Sensing,journal,1,17
-郭建伟,Information Sciences,journal,1,67
-郭建伟,IEEE Transactions on Image Processing,journal,1,67
-郭建伟,International Journal of Remote Sensing,journal,1,8
-郭建伟,ACS Applied Electronic Materials,journal,1,23
-郭建伟,Journal of Materials Chemistry C,journal,1,58
-郭建伟,Journal of Computer-Aided Design & Computer Graphics,journal,1,2
-郭建伟,Journal of the Brazilian Society of Mechanical Sciences and Engineering,journal,1,9
-郭建伟,DEStech Transactions on Social Science Education and Human Science,journal,1,0
-郭建伟,Scientia Sinica Informationis,journal,1,0
-郭建伟,&#35745;&#31639;&#26426;&#31185;&#23398;,journal,1,0
-郭建伟,Advances in computer science research,book series,1,0
-郭建伟,Electrochimica Acta,journal,1,0
-郭建伟,Multimedia Tools and Applications,journal,1,2
+郭小娟,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,9,13
+郭小娟,PubMed,repository,4,49
+郭小娟,Journal of Magnetic Resonance Imaging,journal,3,33
+郭小娟,Frontiers in Aging Neuroscience,journal,3,99
+郭小娟,Journal of Alzheimer s Disease,journal,3,152
+郭小娟,PLoS ONE,journal,3,91
+郭小娟,IEEE Journal of Biomedical and Health Informatics,journal,2,40
+郭小娟,Food & Function,journal,2,59
+郭小娟,Medicine,journal,2,34
+郭小娟,BioMed Research International,journal,2,199
+郭小娟,Frontiers in Computational Neuroscience,journal,2,26
+郭小娟,Neuroscience Letters,journal,2,185
+郭小娟,Journal of Epidemiology,journal,2,61
+郭小娟,Lecture notes in computer science,book series,1,0
+郭小娟,ERJ Open Research,journal,1,1
+郭小娟,SSRN Electronic Journal,repository,1,0
+郭小娟,Electronics,journal,1,1
+郭小娟,Energy,journal,1,3
+郭小娟,Journal of Neural Engineering,journal,1,3
+郭小娟,Case Studies in Thermal Engineering,journal,1,11
+郭小娟,Biomedical Signal Processing and Control,journal,1,1
+郭小娟,World Journal of Clinical Cases,journal,1,5
+郭小娟,BMC Neurology,journal,1,3
+郭小娟,Frontiers in Neuroscience,journal,1,1
+郭小娟,Statistics in Medicine,journal,1,5
+郭小娟,Journal of Physics Conference Series,journal,1,0
+郭小娟,IEEE/ACM Transactions on Computational Biology and Bioinformatics,journal,1,19
+郭小娟,Research Square,repository,1,2
+郭小娟,European Journal of Public Health,journal,1,36
+郭小娟,Journal of Renal Nutrition,journal,1,25
+郭小娟,Research Square (Research Square),repository,1,0
+郭小娟,Diabetes Therapy,journal,1,38
+郭小娟,Frontiers in Genetics,journal,1,45
+郭小娟,Frontiers in Neurology,journal,1,100
+郭小娟,IEEE Access,journal,1,10
+郭小娟,Journal of Agricultural and Food Chemistry,journal,1,30
+郭小娟,Journal of Neuroscience Methods,journal,1,4
+郭小娟,Environment International,journal,1,51
+郭小娟,Neurodegenerative Diseases,journal,1,13
+郭小娟,Oncotarget,journal,1,22
+郭小娟,Alzheimer s & Dementia,journal,1,0
+郭小娟,Frontiers in Human Neuroscience,journal,1,81
+郭小娟,Pakistan Journal of Botany,journal,1,2
+郭小娟,Toxicological Sciences,journal,1,28
+郭小娟,Shijie Zhongyiyao,journal,1,0
+郭小娟,Neuroscience,journal,1,36
+郭小娟,Neuropsychiatric Disease and Treatment,journal,1,20
+郭小娟,Journal of Affective Disorders,journal,1,81
+郭小娟,American Journal of Alzheimer s Disease & Other Dementias®,journal,1,13
+郭小娟,Neuroscience and Biomedical Engineering,journal,1,0
+郭小娟,Neuropsychologia,journal,1,21
+郭小娟,Hypertension Research,journal,1,57
+郭小娟,Journal of Hazardous Materials,journal,1,38
+郭小娟,Chemosphere,journal,1,20
+郭小娟,Journal of Software,journal,1,0
+郭小娟,Nursing Practice and Research,journal,1,0
+郭小娟,China Environmental Science,journal,1,1
+郭小娟,European Journal of Radiology,journal,1,16
+郭小娟,Neuroreport,journal,1,30
+郭小娟,International Journal of Environmental Research and Public Health,journal,1,20
+郭小娟,Geochemistry,journal,1,0
+郭小娟,Journal of Exposure Science & Environmental Epidemiology,journal,1,60
+郭小娟,Social Science & Medicine,journal,1,46
+郭建伟,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,0
 钟方威,arXiv (Cornell University),repository,20,117
 钟方威,ArXiv.org,repository,9,0
 钟方威,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,3,235
@@ -2160,82 +2297,6 @@
 钟瑶瑶,Food & Function,journal,1,42
 钟瑶瑶,IEEE Access,journal,1,40
 钟瑶瑶,CogPrints (University of Southampton),repository,1,0
-陈彦起,IEEE Antennas and Wireless Propagation Letters,journal,2,3
-陈彦起,IEEE Transactions on Microwave Theory and Techniques,journal,2,0
-陈彦起,IEEE Open Journal of Antennas and Propagation,journal,2,1
-陈彦起,ArXiv.org,repository,2,0
-陈彦起,IEEE Transactions on Antennas and Propagation,journal,2,2
-陈彦起,Higher Education,journal,1,0
-陈彦起,Journal of Asthma,journal,1,0
-陈彦起,Forests,journal,1,0
-陈彦起,Mathematics,journal,1,0
-陈彦起,Journal of King Saud University - Computer and Information Sciences,journal,1,0
-陈彦起,Control Engineering Practice,journal,1,0
-陈彦起,Theoretical and Natural Science,journal,1,0
-陈彦起,Small,journal,1,0
-陈彦起,Journal of the American Chemical Society,journal,1,0
-陈彦起,Bioorganic Chemistry,journal,1,0
-陈彦起,Science China Chemistry,journal,1,0
-陈彦起,Science China Technological Sciences,journal,1,0
-陈彦起,SHILAP Revista de lepidopterología,journal,1,0
-陈彦起,Critical Care Medicine,journal,1,0
-陈彦起,Advances in transdisciplinary engineering,book series,1,0
-陈彦起,Nature Machine Intelligence,journal,1,0
-陈彦起,Sustainable Energy & Fuels,journal,1,0
-陈彦起,IET Intelligent Transport Systems,journal,1,0
-陈彦起,Fungal Biology,journal,1,0
-陈彦起,Energy,journal,1,0
-陈彦起,Advanced Healthcare Materials,journal,1,0
-陈彦起,Industrial & Engineering Chemistry Research,journal,1,1
-陈彦起,ISA Transactions,journal,1,1
-陈彦起,Experimental Eye Research,journal,1,1
-陈彦起,Journal of Materials Science Metallurgy,journal,1,0
-陈彦起,Applied Thermal Engineering,journal,1,1
-陈彦起,Separation and Purification Technology,journal,1,2
-陈彦起,PubMed,repository,1,0
-陈彦起,Applied Economics Letters,journal,1,0
-陈彦起,Frontiers in Immunology,journal,1,0
-陈彦起,iMetaMed,journal,1,1
-陈彦起,Virology Journal,journal,1,1
-陈彦起,Chemistry,journal,1,1
-陈彦起,Cell,journal,1,4
-陈彦起,European Journal of Oncology Nursing,journal,1,0
-陈彦起,International Journal of Hydrogen Energy,journal,1,0
-陈彦起,Science Advances,journal,1,1
-陈彦起,Chemical Engineering Journal,journal,1,2
-陈彦起,Journal of South Architecture,journal,1,0
-陈彦起,Journal of Materials Science,journal,1,0
-陈彦起,Frontiers in Mechanical Engineering,journal,1,0
-陈彦起,Preprints.org,repository,1,0
-陈彦起,Microchemical Journal,journal,1,1
-陈彦起,Midwifery,journal,1,1
-陈彦起,Fish & Shellfish Immunology,journal,1,6
-陈彦起,Advanced Optical Materials,journal,1,0
-陈彦起,IEEE Transactions on Components Packaging and Manufacturing Technology,journal,1,2
-陈彦起,Journal of the Brazilian Society of Mechanical Sciences and Engineering,journal,1,0
-陈彦起,Industrial Construction,journal,1,0
-陈彦起,Information & Functional Materials,journal,1,0
-陈彦起,Annals of Oncology,journal,1,0
-陈彦起,Applied Surface Science,journal,1,0
-陈彦起,Nature Medicine,journal,1,16
-陈彦起,Expert Systems with Applications,journal,1,0
-陈彦起,Materials Today Advances,journal,1,1
-陈彦起,Microwave,journal,1,0
-陈彦起,Applied Mathematics and Mechanics,journal,1,5
-陈彦起,Blood,journal,1,3
-陈彦起,Medicine,journal,1,0
-陈彦起,Analytical Chemistry,journal,1,3
-陈彦起,Nanomaterials,journal,1,4
-陈彦起,IEEE Sensors Journal,journal,1,3
-陈彦起,Angewandte Chemie International Edition,journal,1,10
-陈彦起,Angewandte Chemie,journal,1,4
-陈彦起,Research Square,repository,1,0
-陈彦起,Nano Research,journal,1,3
-陈彦起,Journal of Nanobiotechnology,journal,1,2
-陈彦起,Nano Letters,journal,1,1
-陈彦起,Environmental Geochemistry and Health,journal,1,2
-陈彦起,Journal of Hazardous Materials,journal,1,5
-陈彦起,IEEE Microwave Magazine,journal,1,2
 骆岩林,Frontiers in Oncology,journal,4,26
 骆岩林,Journal of Clinical Oncology,journal,3,1
 骆岩林,Zhongguo Shenjing Jingshen Jibing Zazhi,journal,3,0
@@ -2333,22 +2394,208 @@
 高建花,Modular Machine Tool & Automatic Manufacturing Technique,journal,1,0
 高建花,Journal of South China University of Technology,journal,1,1
 高建花,Journal of the American Ceramic Society,journal,1,43
-魏云刚,IEEE Transactions on Learning Technologies,journal,2,39
-魏云刚,Third International Conference on Computer Science and Communication Technology (ICCSCT 2022),conference,1,0
-魏云刚,Signal Processing Image Communication,journal,1,28
-魏云刚,Zhongguo Shiyou Daxue Xuebao. Ziran Kexue Ban,journal,1,0
-魏云刚,Wireless Communications and Mobile Computing,journal,1,2
-魏云刚,Procedia Computer Science,journal,1,0
-魏云刚,IIKI,journal,1,0
-魏云刚,Journal of Computer-Aided Design & Computer Graphics,journal,1,0
-魏云刚,IEEE Conference Proceedings,conference,1,0
-魏云刚,"Advances in media, entertainment and the arts (AMEA) book series",book series,1,0
-魏云刚,Advances in intelligent systems research/Advances in Intelligent Systems Research,book series,1,0
-魏云刚,Xiandai jiaoyu jishu,journal,1,0
-魏云刚,Jisuanji yingyong yanjiu,journal,1,2
-黄华,arXiv (Cornell University),repository,2,1
-黄华,Journal of Image and Graphics,journal,1,0
-黄华,Optics Express,journal,1,7
+黄华,arXiv (Cornell University),repository,26,47
+黄华,Lecture notes in computer science,book series,13,100
+黄华,IEEE Transactions on Image Processing,journal,12,422
+黄华,Neurocomputing,journal,11,112
+黄华,IEEE Transactions on Circuits and Systems for Video Technology,journal,10,205
+黄华,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,9,281
+黄华,ArXiv.org,repository,8,1
+黄华,Signal Processing Image Communication,journal,8,1309
+黄华,IEEE Transactions on Visualization and Computer Graphics,journal,7,124
+黄华,IEEE Transactions on Geoscience and Remote Sensing,journal,7,112
+黄华,The Visual Computer,journal,7,133
+黄华,IEEE Transactions on Intelligent Transportation Systems,journal,6,205
+黄华,Lecture notes in electrical engineering,book series,5,14
+黄华,Optics Express,journal,5,57
+黄华,IEEE Transactions on Multimedia,journal,5,310
+黄华,Computer Graphics Forum,journal,5,68
+黄华,International Journal of Computer Vision,journal,4,20
+黄华,Pattern Recognition,journal,4,279
+黄华,SSRN Electronic Journal,repository,4,6
+黄华,Journal of Computer Science and Technology,journal,4,18
+黄华,IEEE Transactions on Neural Networks and Learning Systems,journal,3,311
+黄华,IEEE Transactions on Computational Imaging,journal,3,118
+黄华,2021 IEEE Sustainable Power and Energy Conference (iSPEC),conference,3,5
+黄华,Information Sciences,journal,3,44
+黄华,Multimedia Tools and Applications,journal,3,25
+黄华,Advanced materials research,journal,3,7
+黄华,PubMed,repository,3,1
+黄华,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,3,0
+黄华,Signal Image and Video Processing,journal,2,5
+黄华,Laser & Photonics Review,journal,2,9
+黄华,IEICE Transactions on Information and Systems,journal,2,0
+黄华,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,35
+黄华,Journal of Physics Conference Series,journal,2,3
+黄华,Proceedings of the 30th ACM International Conference on Multimedia,conference,2,33
+黄华,2022 IEEE 10th Joint International Information Technology and Artificial Intelligence Conference (ITAIC),conference,2,0
+黄华,Optics Letters,journal,2,82
+黄华,IET Image Processing,journal,2,10
+黄华,Mathematical Problems in Engineering,journal,2,12
+黄华,Journal of Neijiang Normal University,journal,2,0
+黄华,IEEE Signal Processing Letters,journal,2,54
+黄华,Jisuanji gongcheng yu sheji,journal,2,3
+黄华,East China Electric Power,journal,2,0
+黄华,Lab on a Chip,journal,2,579
+黄华,IEEE Intelligent Systems,journal,2,58
+黄华,Pattern Recognition Letters,journal,2,139
+黄华,Journal of Nanchang Institute of Aeronautical Technology,journal,2,1
+黄华,Journal of Guangdong University of Technology,journal,2,0
+黄华,Journal of Environmental Engineering,journal,1,0
+黄华,International Journal of Infectious Diseases,journal,1,0
+黄华,Engineering Reports,journal,1,0
+黄华,Fuel Cells,journal,1,0
+黄华,Machines,journal,1,0
+黄华,Knowledge-Based Systems,journal,1,0
+黄华,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,journal,1,0
+黄华,Field Crops Research,journal,1,0
+黄华,Scientific Reports,journal,1,3
+黄华,Animal - science proceedings,journal,1,0
+黄华,Digital Signal Processing,journal,1,0
+黄华,Journal of Neuroscience,journal,1,0
+黄华,High Altitude Medicine & Biology,journal,1,0
+黄华,Nature Communications,journal,1,3
+黄华,Resources Conservation and Recycling,journal,1,13
+黄华,Light Science & Applications,journal,1,9
+黄华,International journal of education and literacy studies,journal,1,0
+黄华,BMC Health Services Research,journal,1,7
+黄华,Resource Geology,journal,1,0
+黄华,Photonics Research,journal,1,25
+黄华,Journal of Intelligent Transportation Systems,journal,1,0
+黄华,Informatica,journal,1,1
+黄华,Scalable Computing Practice and Experience,journal,1,0
+黄华,Soft Computing,journal,1,10
+黄华,Journal of Rare Earths,journal,1,7
+黄华,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",journal,1,0
+黄华,International Journal of Software and Informatics,journal,1,0
+黄华,IEEE Transactions on Systems Man and Cybernetics Systems,journal,1,25
+黄华,2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC),conference,1,78
+黄华,Applied Intelligence,journal,1,3
+黄华,Proceedings of the VLDB Endowment,journal,1,4
+黄华,IEEE Journal on Selected Areas in Communications,journal,1,9
+黄华,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),conference,1,39
+黄华,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),conference,1,93
+黄华,Applied Soft Computing,journal,1,20
+黄华,ITM Web of Conferences,journal,1,1
+黄华,Advances in Higher Education,journal,1,0
+黄华,Multimedia Systems,journal,1,0
+黄华,IEEE Transactions on Computers,journal,1,4
+黄华,IOP Conference Series Earth and Environmental Science,conference,1,1
+黄华,Inverse Problems and Imaging,journal,1,5
+黄华,Research Square,repository,1,0
+黄华,Computer-Aided Design,journal,1,60
+黄华,Journal of Industrial and Management Optimization,journal,1,1
+黄华,Shipin Kexue / Food Science,journal,1,2
+黄华,IEEE/ASME Transactions on Mechatronics,journal,1,21
+黄华,International Journal of Mechatronics and Applied Mechanics,journal,1,0
+黄华,Frontiers in Neuroscience,journal,1,19
+黄华,IOP Conference Series Materials Science and Engineering,conference,1,0
+黄华,Chin J Clinicians(Electronic Edition),journal,1,0
+黄华,Mathematical Methods in the Applied Sciences,journal,1,2
+黄华,Journal of Inverse and Ill-Posed Problems,journal,1,1
+黄华,BMC Bioinformatics,journal,1,56
+黄华,IET Communications,journal,1,0
+黄华,BMC Systems Biology,journal,1,109
+黄华,IEEE Access,journal,1,22
+黄华,Journal of Materials Chemistry C,journal,1,65
+黄华,Journal of Computer-Aided Design & Computer Graphics,journal,1,1
+黄华,MATEC Web of Conferences,journal,1,7
+黄华,AIP conference proceedings,journal,1,4
+黄华,Applied Optics,journal,1,8
+黄华,IEEE Transactions on Cybernetics,journal,1,15
+黄华,CERN Document Server (European Organization for Nuclear Research),repository,1,2
+黄华,International Journal of Refractory Metals and Hard Materials,journal,1,0
+黄华,RSC Advances (Web),journal,1,0
+黄华,Materials & Design,journal,1,0
+黄华,International journal of industrial engineering,journal,1,1
+黄华,Bulletin of Surveying and Mapping,journal,1,0
+黄华,Zaosheng yu zhendong kongzhi,journal,1,0
+黄华,Xitong Fangzhen Xuebao,journal,1,0
+黄华,Tobacco Science & Technology,journal,1,0
+黄华,IEEE Transactions on Services Computing,journal,1,20
+黄华,Lecture notes in business information processing,book series,1,2
+黄华,Ship Electronic Engineering,journal,1,0
+黄华,IEEE Journal on Emerging and Selected Topics in Circuits and Systems,journal,1,7
+黄华,Advances in intelligent systems research/Advances in Intelligent Systems Research,book series,1,0
+黄华,Modern Agricultural Science and Technology,journal,1,0
+黄华,Zhongguo xinli weisheng zazhi,journal,1,2
+黄华,Applied Mechanics and Materials,journal,1,1
+黄华,Journal of Signal Processing Systems,journal,1,3
+黄华,Optical Engineering,journal,1,2
+黄华,Proceedings of the 2nd International Conference On Systems Engineering and Modeling,conference,1,0
+黄华,Computer Integrated Manufacturing Systems,journal,1,0
+黄华,Hedongli gongcheng,journal,1,0
+黄华,Journal of Henan Institute of Engineering,journal,1,0
+黄华,Journal of Taizhou Polytechnic College,journal,1,0
+黄华,ACM Transactions on Graphics,journal,1,48
+黄华,Science China Information Sciences,journal,1,1
+黄华,Zhongguo gaodeng yixue jiaoyu,journal,1,0
+黄华,Northern Horticulture,journal,1,0
+黄华,Hubei Sports Science,journal,1,0
+黄华,Jisuanji gongcheng,journal,1,4
+黄华,Xinxi wangluo anquan,journal,1,0
+黄华,Xi'an Jiaotong Daxue xuebao,journal,1,0
+黄华,Journal of Optoelectronics·laser,journal,1,1
+黄华,Huanjing jiance guanli yu jishu,journal,1,0
+黄华,Journal of Modern Optics,journal,1,6
+黄华,IEEE Transactions on Neural Networks,journal,1,125
+黄华,Computer Animation and Virtual Worlds,journal,1,1
+黄华,Computers & Graphics,journal,1,28
+黄华,Journal of Beijing Institute of Technology,journal,1,0
+黄华,Journal of Jiangxi Normal University,journal,1,0
+黄华,Shanxi Library Journal,journal,1,0
+黄华,Computer Engineering and Applications Journal,journal,1,3
+黄华,Water Resources Protection,journal,1,0
+黄华,Journal of Hubei University,journal,1,0
+黄华,Journal of Xinjiang Agricultural University,journal,1,0
+黄华,Microfluidics and Nanofluidics,journal,1,69
+黄华,ACTA AUTOMATICA SINICA,journal,1,2
+黄华,Science in China Series F Information Sciences,journal,1,34
+黄华,Microcomputer Information,journal,1,0
+黄华,Optics & Optoelectronic Technology,journal,1,0
+黄华,Electrotechnics Electric,journal,1,0
+黄华,Journal of Harbin University of Commerce,journal,1,0
+黄华,Journal of Jingmen Technical College,journal,1,0
+黄华,Dianzi xuebao,journal,1,15
+黄华,Journal of Shandong University,journal,1,7
+黄华,Applied Physics Letters,journal,1,66
+黄华,Frontiers of Mechanical Engineering in China,journal,1,1
+黄华,Journal of Computer Applications,journal,1,0
+黄华,Liaoning tiyu ke-ji,journal,1,0
+黄华,Internal Combustion Engine & Powerplant,journal,1,0
+黄华,The Library Journal of Henan,journal,1,0
+黄华,Mechanical & Electrical Engineering Technology,journal,1,0
+黄华,Movable Power Station & Vehicle,journal,1,0
+黄华,CD Technology,journal,1,0
+黄华,Tractor & Farm Transporter,journal,1,0
+黄华,Future and Development,journal,1,0
+黄华,Shandong Foreign Language Teaching Journal,journal,1,0
+黄华,Communications technology,journal,1,0
+黄华,Journal of Gannan Normal University,journal,1,0
+黄华,Journal of Chongqing Technology and Business University,journal,1,0
+黄华,Journal of Zhangzhou Normal University,journal,1,0
+黄华,Journal of Software,journal,1,1
+黄华,Xiandai shengwu yixue jinzhan,journal,1,2
+黄华,Journal of Ningbo Institute of Education,journal,1,0
+黄华,Nonferrous Metals,journal,1,0
+黄华,Energy Conservation Technology,journal,1,0
+黄华,The Journal of Physical Chemistry B,journal,1,29
+黄华,Journal of Changzhou Institute of Technology,journal,1,0
+黄华,Journal of Computer Research and Development,journal,1,0
+黄华,Journal of Huaiyin Industry College,journal,1,0
+黄华,Subject Education,journal,1,0
+黄华,China Water & Wastewater,journal,1,0
+黄华,Journal of Sichuan University,journal,1,0
+黄华,Computer and Modernization,journal,1,0
+黄华,Journal of Huaiyin Teachers College,journal,1,0
+黄华,Journal of Guangxi University for Nationalities,journal,1,0
+黄华,Fujian Nongye Daxue xuebao,journal,1,1
+黄华,Journal of Wuxi Vocational Institute of Commercial Technology,journal,1,0
+黄华,Journal of Sanming College,journal,1,0
+黄华,Journal of Fuzhou Teachers College,journal,1,0
+黄华,Journal of Sichuan International Studies University,journal,1,0
+黄华,Journal of Gannan Teacher's College,journal,1,0
+黄华,Palgrave Macmillan UK eBooks,ebook platform,1,0
 黄永祯,arXiv (Cornell University),repository,14,11
 黄永祯,Lecture notes in computer science,book series,8,613
 黄永祯,IEEE Transactions on Information Forensics and Security,journal,6,19
@@ -2402,9 +2649,53 @@
 黄石生,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1,16
 黄石生,The Visual Computer,journal,1,12
 黄石生,JOURNAL OF INFRARED AND MILLIMETER WAVES,journal,1,5
-龙志颖,PLoS ONE,journal,2,8
-龙志颖,Cognitive Neurodynamics,journal,1,3
-龙志颖,SSRN Electronic Journal,repository,1,1
-龙志颖,BMC Neuroscience,journal,1,17
-龙志颖,The International Journal of Aging and Human Development,journal,1,8
-龙志颖,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,1,0
+龙志颖,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal,12,18
+龙志颖,PLoS ONE,journal,6,376
+龙志颖,Lecture notes in computer science,book series,5,13
+龙志颖,IEEE Transactions on Neural Systems and Rehabilitation Engineering,journal,4,98
+龙志颖,arXiv (Cornell University),repository,3,1
+龙志颖,Journal of Neuroscience Methods,journal,3,48
+龙志颖,NeuroImage,journal,3,312
+龙志颖,SSRN Electronic Journal,repository,2,0
+龙志颖,Frontiers in Aging Neuroscience,journal,2,22
+龙志颖,Cognitive Neurodynamics,journal,2,9
+龙志颖,Brain Sciences,journal,2,16
+龙志颖,Human Brain Mapping,journal,2,24
+龙志颖,Neuropsychologia,journal,2,31
+龙志颖,Magnetic Resonance Imaging,journal,2,11
+龙志颖,Journal of Gerontological Nursing,journal,1,0
+龙志颖,Applied Soft Computing,journal,1,1
+龙志颖,Journal of Clinical Hypertension,journal,1,0
+龙志颖,ArXiv.org,repository,1,2
+龙志颖,Resources Conservation and Recycling,journal,1,13
+龙志颖,Environmental science and engineering,book series,1,0
+龙志颖,IEEE Geoscience and Remote Sensing Letters,journal,1,2
+龙志颖,Lecture notes in networks and systems,book series,1,0
+龙志颖,IEEE Transactions on Engineering Management,journal,1,3
+龙志颖,Cognitive Computation,journal,1,1
+龙志颖,Journal of Physics Conference Series,journal,1,0
+龙志颖,International Journal of Signal Processing Systems,journal,1,1
+龙志颖,BMC Medical Imaging,journal,1,9
+龙志颖,Computational Intelligence and Neuroscience,journal,1,3
+龙志颖,IEEE Transactions on Biomedical Engineering,journal,1,16
+龙志颖,"The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",journal,1,0
+龙志颖,Journal of Behavioral and Brain Science,journal,1,5
+龙志颖,Journal of Alzheimer s Disease,journal,1,75
+龙志颖,Advances in cognitive neurodynamics,book series,1,0
+龙志颖,Neuroscience and Biomedical Engineering,journal,1,0
+龙志颖,BMC Neuroscience,journal,1,23
+龙志颖,Journal of Affective Disorders,journal,1,81
+龙志颖,Bio-Medical Materials and Engineering,journal,1,2
+龙志颖,Frontiers in Human Neuroscience,journal,1,27
+龙志颖,Neuroscience,journal,1,81
+龙志颖,IEEE Journal of Biomedical and Health Informatics,journal,1,12
+龙志颖,Computers in Biology and Medicine,journal,1,2
+龙志颖,International Journal of Neuroscience,journal,1,39
+龙志颖,Brain Research,journal,1,73
+龙志颖,International Conference on Information Science and Technology,conference,1,1
+龙志颖,Neuroscience Letters,journal,1,15
+龙志颖,Journal of Software,journal,1,0
+龙志颖,Progress in Natural Science Materials International,journal,1,2
+龙志颖,Neuroreport,journal,1,15
+龙志颖,OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information),repository,1,4
+龙志颖,Zhongguo yixue wulixue zazhi,journal,1,0
