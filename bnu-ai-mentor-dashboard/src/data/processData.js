@@ -41,13 +41,13 @@ function processFacultyData() {
     researchDirection: item.研究方向,
     email: item.邮箱,
     homepage: item.个人主页,
-    campus: item.校区,
+    campus: item.校区 || '',
     notes: item.备注,
-    paperCount: parseInt(item.OA论文数) || 0,
-    citationCount: parseInt(item.OA引用数) || 0,
-    hIndex: parseInt(item.OA_H指数) || 0,
-    i10Index: parseInt(item.OA_i10指数) || 0,
-    orcid: item.ORCID
+    paperCount: parseInt(item.论文数) || 0,
+    citationCount: parseInt(item.引用数) || 0,
+    hIndex: parseInt(item['h-index']) || 0,
+    i10Index: parseInt(item['i10-index']) || 0,
+    orcid: item.ORCID || ''
   }));
 }
 
@@ -56,14 +56,14 @@ function processPaperData() {
   const paperData = readCSV(path.join(__dirname, '../../../bnu_ai_all_papers.csv'));
   
   return paperData.map(item => ({
-    id: `${item.导师}-${item.论文标题}-${item.年份}`,
-    mentor: item.导师,
+    id: `${item.教师}-${item.论文标题}-${item.年份}`,
+    mentor: item.教师,
     title: item.论文标题,
     year: parseInt(item.年份) || 0,
-    venue: item.发表渠道,
-    venueType: item.渠道类型,
+    venue: item['期刊/会议'],
+    venueType: item.类型,
     citationCount: parseInt(item.引用数) || 0,
-    researchField: item.研究领域
+    researchField: item.发表场所 || ''
   }));
 }
 
